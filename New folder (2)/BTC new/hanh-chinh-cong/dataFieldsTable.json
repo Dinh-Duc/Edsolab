@@ -1,0 +1,60 @@
+{
+    "fields": [
+        {
+          "key": "maHoSo",
+          "label": "Mã Hồ Sơ",
+          "sortable": true,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "thuTuc",
+          "label": "Thủ Tục",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "chuHoSo",
+          "label": "Chủ Hồ Sơ",
+          "sortable": true,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "coQuanXuLy",
+          "label": "Cơ Quan xử lý",
+          "sortable": true,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "ngayTiepNhan",
+          "label": "Ngày Tiếp Nhận",
+          "sortable": true,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "hanXuLy",
+          "label": "Hạn Xử Lý",
+          "sortable": true,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "tinhTrang",
+          "label": "Tình Trạng",
+          "sortable": true,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        }
+      ]
+}

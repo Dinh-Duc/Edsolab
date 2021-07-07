@@ -1,0 +1,157 @@
+[
+  {
+    "key": "CaNhan",
+    "name": "Cá nhân",
+    "count": 0,
+    "childs": [],
+    "boxStatic": [],
+    "boxChart": [],
+    "boxTable": {}
+  },
+  {
+    "key": "BAOCAODIEUHANH",
+    "name": "Báo cáo điều hành",
+    "count": 0,
+    "boxStatic": [],
+    "boxChart": [],
+    "boxTable": {},
+    "childs": [
+      {
+        "key": "BAOCAODIEUHANH_02",
+        "name": "Tổ chức cán bộ",
+        "count": 0,
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiYzZhNGY2YzEtNTA0OS00Y2MxLTgzMWYtZWY5OWFiMWQ4MzMzIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D",
+        "boxStatic": [],
+        "boxChart": [],
+        "boxTable": {},
+        "childs": []
+      },
+      {
+        "key": "BAOCAODIEUHANH_03",
+        "name": "Thực hiện nhiệm vụ",
+        "count": 0,
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiOWQyNzM2MDgtMzUyMC00ZTY5LTgxNjItZWQwZTgyNTk0MzQ3IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D",
+        "boxStatic": [],
+        "boxChart": [],
+        "boxTable": {},
+        "childs": []
+      },
+      {
+        "key": "BAOCAODIEUHANH_04",
+        "name": "Quản lý văn bản",
+        "count": 0,
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiMGVlOTM4MGMtM2E0NS00YjI2LWJiNzItMzk0NjQ3YmM0ZGIzIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D",
+        "boxStatic": [],
+        "boxChart": [],
+        "boxTable": {},
+        "childs": []
+      },
+      {
+        "key": "BAOCAODIEUHANH_05",
+        "name": "Thống kê lịch họp",
+        "count": 0,
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiZGFlNmIzMjItNzNmNS00NjNkLWFjNzktNzBlYjNjY2ZlNmI2IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D",
+        "boxStatic": [],
+        "boxChart": [],
+        "boxTable": {},
+        "childs": []
+      }
+    ]
+  },
+  {
+    "key": "BCNHNN",
+    "name": "Báo cáo Ngân hàng Nhà nước",
+    "count": 0,
+    "image": "",
+    "childs": []
+  },
+  {
+    "key": "hash_key_12",
+    "name": "Báo cáo nội bộ",
+    "count": 0,
+    "image": "bctts",
+    "childs": [
+      {
+        "key": "hash_key_12_BKS",
+        "name": "Ban kiểm soát",
+        "childs": [
+          {
+            "key": "hash_key_12_BKS_1",
+            "name": "Báo cáo phản hồi của khách hàng",
+            "href": "https://app.powerbi.com/view?r=eyJrIjoiZjVlNTNjMjQtMzU0MC00OTYwLTk4ODQtMzhlODI3M2M5ZjE2IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+          },
+          {
+            "key": "hash_key_12_BKS_2",
+            "name": "Báo cáo quản lý tài sản",
+            "href": "https://app.powerbi.com/view?r=eyJrIjoiZWVhNDg3NmQtYzgzZi00NmVlLWExYmUtYjQ5YjU4OWMwNDc4IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+          },
+          {
+            "key": "hash_key_12_BKS_3",
+            "name": "Báo cáo phân cấp và thực hiện ngân sách",
+            "href": "https://app.powerbi.com/view?r=eyJrIjoiMDMzNTNjZDYtOTA1Zi00MjcwLWEyMjYtYTdjMDU3MzZmMTVjIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D&pageName=ReportSection39cc49bb46f69df4b811"
+          }
+        ]
+      },
+      {
+        "key": "hash_key_12_10",
+        "childs": [],
+        "name": "Ban Kế hoạch nguồn vốn",
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiYjgyYTgzYTMtYmFlNi00ZGNhLWE3NzEtNGQxZjhkNDgzYjg2IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D&pageName=ReportSection94ae36cba38bc61ac3d0"
+
+      },
+      {
+        "key": "hash_key_12_11",
+        "childs": [],
+        "name": "Ban Tín dụng",
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiMWZkOTdmNTItMDcxZS00NTVjLThmZTAtZDc4MzAwZjE5NjI3IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+      },
+      {
+        "key": "hash_key_12_12",
+        "childs": [],
+        "name": "Ban Pháp chế"
+      },
+      {
+        "key": "hash_key_12_13",
+        "childs": [],
+        "name": "Ban Tổ chức và Tiền lương"
+      },
+      {
+        "key": "hash_key_12_14",
+        "childs": [],
+        "name": "Ban Hộ sản xuất và cá nhân"
+      },
+      {
+        "key": "hash_key_12_15",
+        "childs": [],
+        "name": "Ban Khách hàng lớn"
+      },
+      {
+        "key": "hash_key_12_16",
+        "childs": [],
+        "name": "Ban Nghiên cứu Phát triển"
+      },
+      {
+        "key": "hash_key_12_17",
+        "childs": [],
+        "name": "Ban Cổ phần hóa"
+      },
+      {
+        "key": "hash_key_12_18",
+        "childs": [],
+        "name": "Trung tâm Thẻ",
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiMTVjNWI0YjMtYmE5Yy00ZDlhLThlZTktZmFlMjA2YTk0NGFkIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+      },
+      {
+        "key": "hash_key_12_20",
+        "childs": [],
+        "name": "Trung tâm Thanh toán",
+        "href": "https://app.powerbi.com/view?r=eyJrIjoiMWVhODM1NmMtMGNlMi00MGM5LWE3N2QtOWM1YTE0NjI0M2JlIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+      },
+      {
+        "key": "hash_key_12_19",
+        "childs": [],
+        "name": "Trung tâm Công nghệ thông tin"
+      }
+    ]
+  }
+]

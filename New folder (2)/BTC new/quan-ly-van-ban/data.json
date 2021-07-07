@@ -1,0 +1,246 @@
+{
+  "VBDEN_tongQuan": [
+    {
+      "id": "1",
+      "ngayNhan": "05/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "07/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ vào sổ"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "11/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "07/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ vào sổ"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "23/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "09/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ vào sổ"
+    }
+  ],
+  "VBDEN_chuaXuLyQuaHan": [
+    {
+      "id": "1",
+      "ngayNhan": "05/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "23/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chưa xử lý quá hạn"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "02/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 2) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chưa xử lý quá hạn"
+    }
+  ],
+  "VBDEN_chuaXuLyTrongHan": [
+    {
+      "id": "1",
+      "ngayNhan": "23/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "17/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chưa xử lý trong hạn"
+    }
+  ],
+  "VBDEN_daXuLyQuaHan": [
+    {
+      "id": "1",
+      "ngayNhan": "05/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đã xử lý quá hạn"
+    }
+  ],
+  "VBDEN_daXuLyTrongHan": [
+    {
+      "id": "1",
+      "ngayNhan": "13/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đã xử lý trong hạn"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "23/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đã xử lý trong hạn"
+    }
+  ],
+  "VBDEN_dangXuLyQuaHan": [
+    {
+      "id": "1",
+      "ngayNhan": "15/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đang xử lý quá hạn"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "25/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đang xử lý quá hạn"
+    }
+  ],
+  "VBDEN_dangXuLyTrongHan": [
+    {
+      "id": "1",
+      "ngayNhan": "10/05/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đang xử lý trong hạn"
+    }
+  ],
+  "VBDI_TONG_QUAN": [
+    {
+      "id": "1",
+      "ngayNhan": "21/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ vào sổ"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "18/02/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ vào sổ"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "19/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ vào sổ"
+    }
+  ],
+  "VBDI_CHO_TRINH_KY": [
+    {
+      "id": "1",
+      "ngayNhan": "10/05/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ trình ký"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "26/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ trình ký"
+    }
+  ],
+  "VBDI_CHO_XU_LY": [
+    {
+      "id": "1",
+      "ngayNhan": "27/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ trình ký"
+    }
+  ],
+  "VBDI_DA_XU_LY": [
+    {
+      "id": "1",
+      "ngayNhan": "10/05/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDI_DA_TRA_LAI": [
+    {
+      "id": "1",
+      "ngayNhan": "13/05/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đã trả lại"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "10/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Đã trả lại"
+    }
+  ],
+  "VBDI_CHO_Y_KIEN": [
+    {
+      "id": "1",
+      "ngayNhan": "10/05/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ ý kiến"
+    }
+  ],
+  "VBDI_CHO_CAP_SO": [
+    {
+      "id": "1",
+      "ngayNhan": "18/04/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ cấp số"
+    },
+    {
+      "id": "1",
+      "ngayNhan": "22/03/2021",
+      "soKyHieu": "57/BC-UBBC",
+      "ngayBanHanh": "08/05/2021",
+      "trichYeu": "Báo cáo nhanh tiến độ (Diễn tập lần 1) Công tác bầu cử đại biểu Quốc hội khóa XV và đại biểu HĐND các cấp nhiệm kỳ 2021-2026 (ngày 18/4/2021)",
+      "coQuanBanHanh": "UBND huyện Cẩm Mỹ tỉnh Đồng Nai",
+      "trangThai": "Chờ cấp số"
+    }
+  ]
+}

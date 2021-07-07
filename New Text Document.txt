@@ -1,0 +1,36 @@
+/* eslint-disable */
+const domainProtocol = window.location.protocol
+
+export const COMMON_BE = domainProtocol + '//btc-commonbe.chinhquyendientu.vn'
+export const BE_DOMAIN = domainProtocol + '//btc-be.chinhquyendientu.vn'
+export const BE_DOMAIN_QLNV = domainProtocol + '//btc-qlnvbe.chinhquyendientu.vn'
+
+// export const VPDT_BE = 'http://btc-vpdtbe.chinhquyendientu.vn'
+export const VPDT_BE = domainProtocol + '//btc-vpdtbe.chinhquyendientu.vn'
+// export const HTML_BE = 'http://btc-htmbe.chinhquyendientu.vn'
+export const HTML_BE = domainProtocol + '//btc-vpdtbe.chinhquyendientu.vn'
+export const QLNV_BE = domainProtocol + '//btc-qlnvbe.chinhquyendientu.vn'
+export const UrlAPI = domainProtocol + '//btc-crawlbe.chinhquyendientu.vn'
+
+export const DOMAIN_FE = domainProtocol + '//btc.chinhquyendientu.vn/'
+export const ROCKET_CHAT_DOMAIN = domainProtocol + '//chat.chinhquyendientu.vn' + (domainProtocol === 'http:' ? ':3000' : '')
+
+//local storage keyword
+export const COMMON_TOKEN = 'accessToken'
+export const PERMISSIONS = 'COMMON_PERMISSIONLIST'
+export const USERINFO = 'COMMON_USERINFO'
+export const location = 'dong-nai'
+export const ROCKET_CHAT_TOKEN = 'rocket_chat_token'
+export const ROCKET_CHAT_DETAIL = 'rocket_chat_detail'
+export const USER_DATA = 'userData'
+
+import {
+    COMMON_GET, COMMON_POST, COMMON_PUT, COMMON_DELETE,
+  } from '@/api/base2'
+  window.COMMON_GET = COMMON_GET
+  window.COMMON_POST = COMMON_POST
+  window.COMMON_PUT = COMMON_PUT
+  window.COMMON_DELETE = COMMON_DELETE
+  window.URLAPI = UrlAPI
+  window.COMMON_BE = COMMON_BE
+  window.setLocaltion = location

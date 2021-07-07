@@ -1,0 +1,3953 @@
+[
+    {
+        "id": 1,
+        "name": "Tổng quan",
+        "icon" : "GridIcon",
+        "childs": [],
+        "boxTable" : {
+
+        },
+        "url" : "https://app.powerbi.com/view?r=eyJrIjoiYTE5MTBmMzgtOTQ3YS00OGEzLTg5YjktMDNmNjFlYjNmMTBjIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Sở ban ngành",
+        "icon" : "LayersIcon",
+        "childs": [
+            {
+                "key": "STC",
+                "name": "Sở Tài chính",
+                "count": 0,
+                "id" : 1,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 5,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 30,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 8,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 10,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 43
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 11,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 2,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 2,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 3,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 4,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 1,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 4,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                      "items": [
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0082",
+                          "thuTuc": "Thủ tục cấp giấy phép thành lập và công nhận Điều lệ quỹ",
+                          "chuHoSo": "Hộ kinh doanh Dương Bá Ngọc",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "17/04/2021",
+                          "hanXuLy": "19/04/2021",
+                          "trangThai": "Quá hạn",
+                          "tinhTrang": "Đã xử lý"
+                        },
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0083",
+                          "thuTuc":
+                            "Cấp giấy phép hoạt động bán lẻ điện đến cấp điện áp 0,4kV tại địa phương",
+                          "chuHoSo": "Hộ kinh doanh Hoàng Hà Nga",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "17/04/2021",
+                          "hanXuLy": "19/04/2021",
+                          "trangThai": "Quá hạn",
+                          "tinhTrang": "Đã xử lý"
+                        },
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0084",
+                          "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                          "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "17/04/2021",
+                          "hanXuLy": "19/04/2021",
+                          "trangThai": "Quá hạn",
+                          "tinhTrang": "Chờ xử lý"
+                        },
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0085",
+                          "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                          "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "17/04/2021",
+                          "hanXuLy": "19/04/2021",
+                          "trangThai": "Quá hạn",
+                          "tinhTrang": "Đã xử lý"
+                        },
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0086",
+                          "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                          "chuHoSo": "Cửa hàng Đức Huy",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "17/04/2021",
+                          "hanXuLy": "19/04/2021",
+                          "trangThai": "Quá hạn",
+                          "tinhTrang": "Đã xử lý"
+                        },
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0087",
+                          "thuTuc":
+                            "Chuyển đổi công ty cổ phần thành công ty trách nhiệm hữu hạn một thành viên",
+                          "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm An",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "17/04/2021",
+                          "hanXuLy": "19/04/2021",
+                          "trangThai": "Quá hạn",
+                          "tinhTrang": "Đang xử lý"
+                        },
+                        {
+                          "maHoSo": "000.00.02.G05-210419-0088",
+                          "thuTuc":
+                            "Cấp giấy phép rời cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ",
+                          "chuHoSo": "Công ty TNHH Thịnh Hoàng",
+                          "coQuanXuLy": "Sở Tài chính",
+                          "ngayTiepNhan": "18/04/2021",
+                          "hanXuLy": "20/04/2021",
+                          "trangThai": "Đến hạn",
+                          "tinhTrang": "Đang xử lý"
+                        }
+                      ]
+                  }
+                }
+
+            },
+            {
+                "key": "SKH-DT",
+                "name": "Sở Kế hoạch và Đầu tư",
+                "count": 5,
+                "id" : 2,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 10,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 8,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 20,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 7,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 35
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 10,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 6,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 3,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0108",
+                        "thuTuc":
+                          "Cấp Chứng chỉ hành nghề luật sư đối với người được miễn đào tạo nghề luật sư, miễn tập sự hành nghề luật sư",
+                        "chuHoSo": "Văn phòng Luật  Huy Hoàng",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0109",
+                        "thuTuc":
+                          "Cấp Chứng chỉ hành nghề luật sư đối với người đạt yêu cầu kiểm tra kết quả tập sự hành nghề luật sư",
+                        "chuHoSo": "Văn phòng Luật  Tiến Thịnh",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0110",
+                        "thuTuc":
+                          "Bổ sung, thay đổi thông tin của thuốc đã kê khai, kê khai lại trong trường hợp có thay đổi so với thông tin đã được công bố nhưng giá thuốc không đổi",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thành Đô",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SNN-PTNT",
+                "name": "Sở Nông nghiệp và Phát triển Nông thôn",
+                "count": 0,
+                "id" : 3,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 20,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 60
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 15,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 8,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 7,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0104",
+                        "thuTuc":
+                          "Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp điều chỉnh hạng xe đào tạo, lưu lượng đào tạo",
+                        "chuHoSo": "Công ty TNHH Minh Nam",
+                        "coQuanXuLy": "Sở Nông nghiệp và Phát triển Nông thôn",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0105",
+                        "thuTuc": "Cấp phép thi công nút giao đấu nối vào quốc lộ",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Hà",
+                        "coQuanXuLy": "Sở Nông nghiệp và Phát triển Nông thôn",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0106",
+                        "thuTuc":
+                          "Cấp lại, đổi, điều chỉnh thông tin trên sổ bảo hiểm xã hội, thẻ bảo hiểm y tế",
+                        "chuHoSo": "Công ty TNHH Bắc Hà",
+                        "coQuanXuLy": "Sở Nông nghiệp và Phát triển Nông thôn",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SCT",
+                "name": "Sở Công thương",
+                "count": 3,
+                "id" : 4,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 14,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 11,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 15,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 10,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 10,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 6,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0106",
+                        "thuTuc":
+                          "Cấp lại, đổi, điều chỉnh thông tin trên sổ bảo hiểm xã hội, thẻ bảo hiểm y tế",
+                        "chuHoSo": "Công ty TNHH Bắc Hà",
+                        "coQuanXuLy": "Sở Công thương",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0107",
+                        "thuTuc":
+                          "Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải",
+                        "chuHoSo": "Công ty TNHH Môi trường Xanh",
+                        "coQuanXuLy": "Sở Công thương",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SXD",
+                "name": "Sở Xây dựng",
+                "count": 1,
+                "id" : 5,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 10,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 30,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 12,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 8,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 22,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 12,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 42
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 14,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 8,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0107",
+                        "thuTuc":
+                          "Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải",
+                        "chuHoSo": "Công ty TNHH Môi trường Xanh",
+                        "coQuanXuLy": "Sở Xây dựng",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SGTVT",
+                "name": "Sở Giao thông vận tải",
+                "count": 11,
+                "id" : 6,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 8,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 12,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 8,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 2,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 35
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 16,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 6,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0104",
+                        "thuTuc":
+                          "Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp điều chỉnh hạng xe đào tạo, lưu lượng đào tạo",
+                        "chuHoSo": "Công ty TNHH Minh Nam",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0105",
+                        "thuTuc": "Cấp phép thi công nút giao đấu nối vào quốc lộ",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Hà",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "STN-MT",
+                "name": "Sở Tài nguyên và Môi trường",
+                "count": 1,
+                "id" : 7,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 18,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 12,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 16,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 6,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0096",
+                        "thuTuc": "Cấp giấy nhận chứng bị nhiễm HIV do tai nạn rủi ro nghề nghiệp",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thế Kỉ Mới",
+                        "coQuanXuLy": "Sở Tài nguyên và Môi trường",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0097",
+                        "thuTuc":
+                          "Cấp giấy phép vận tải đường bộ quố tế GMS cho phương tiện của các doanh nghiệp, hợp tác xã",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thành Đô",
+                        "coQuanXuLy": "Sở Tài nguyên và Môi trường",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0098",
+                        "thuTuc":
+                          "Thông báo lập địa điểm kinh doanh (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)",
+                        "chuHoSo": "Hộ kinh doanh Nga Mai",
+                        "coQuanXuLy": "Sở Tài nguyên và Môi trường",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SKH-CN",
+                "name": "Sở Khoa học và Công nghệ",
+                "count": 0,
+                "id" : 8,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 10,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 12,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 8,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 10,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0099",
+                        "thuTuc": "Cấp lại Giấy chứng nhận đăng ký phương tiện",
+                        "chuHoSo": "Vũ Thị Oanh",
+                        "coQuanXuLy": "Sở Khoa học và Công nghệ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0100",
+                        "thuTuc":
+                          "Cấp lại Giấy phép vận tải qua biên giới Campuchia - Lào - Việt Nam",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Minh",
+                        "coQuanXuLy": "Sở Khoa học và Công nghệ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0101",
+                        "thuTuc": "Cấp lại Giấy phép xe tập lái",
+                        "chuHoSo": "Nguyễn Nam Minh",
+                        "coQuanXuLy": "Sở Khoa học và Công nghệ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0102",
+                        "thuTuc":
+                          "Cấp lại giấy chứng nhận trung tâm sát hạch lái xe đủ điều kiện hoạt động",
+                        "chuHoSo": "Công ty TNHH Minh Hòa",
+                        "coQuanXuLy": "Sở Khoa học và Công nghệ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SGD-DT",
+                "name": "Sở Giáo dục và Đào tạo",
+                "count": 0,
+                "id" : 9,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 24,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 8,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 24,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 44
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 6,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0083",
+                        "thuTuc":
+                          "Cấp giấy phép hoạt động bán lẻ điện đến cấp điện áp 0,4kV tại địa phương",
+                        "chuHoSo": "Hộ kinh doanh Hoàng Hà Nga",
+                        "coQuanXuLy": "Sở Giáo dục và Đào tạo",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0084",
+                        "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                        "coQuanXuLy": "Sở Giáo dục và Đào tạo",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SYT",
+                "name": "Sở Y tế",
+                "count": 0,
+                "id" : 10,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 10,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 8,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 10,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 13,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 38
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 12,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 2,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 5,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 8,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 3,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0086",
+                        "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                        "chuHoSo": "Cửa hàng Đức Huy",
+                        "coQuanXuLy": "Sở Y tế",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0087",
+                        "thuTuc":
+                          "Chuyển đổi công ty cổ phần thành công ty trách nhiệm hữu hạn một thành viên",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm An",
+                        "coQuanXuLy": "Sở Y tế",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0088",
+                        "thuTuc":
+                          "Cấp giấy phép rời cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ",
+                        "chuHoSo": "Công ty TNHH Thịnh Hoàng",
+                        "coQuanXuLy": "Sở Y tế",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SVHTT-DL",
+                "name": "Sở Văn hóa - Thể thao và Du lịch",
+                "count": 0,
+                "id" : 11,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 13,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 23,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 14,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 14,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 20,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 16,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 5,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 2,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 3,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0089",
+                        "thuTuc":
+                          "Chấp thuận thiết kế kỹ thuật và phương án tổ chức thi công của nút giao đấu nối vào quốc lộ",
+                        "chuHoSo": "Công ty tnhh dịch vụ và phát triển công nghệ Hà Đinh",
+                        "coQuanXuLy": "Sở Văn hóa - Thể thao và Du lịch",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0090",
+                        "thuTuc":
+                          "Quyết định thu hồi tài sản công trong trường hợp thu hồi tài sản công theo quy định tại các điểm a, b, c, d, đ và e khoản 1 Điều 41 của Luật Quản lý, sử dụng tài sản công.",
+                        "chuHoSo": "Công ty tnhh dịch vụ và phát triển công nghệ Nam Hà",
+                        "coQuanXuLy": "Sở Văn hóa - Thể thao và Du lịch",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0091",
+                        "thuTuc":
+                          "Thông báo lập địa điểm kinh doanh (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)",
+                        "chuHoSo": "Hộ kinh doanh Nga Mai",
+                        "coQuanXuLy": "Sở Văn hóa - Thể thao và Du lịch",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0092",
+                        "thuTuc": "Phê duyệt phương án tổ chức giao thông trên đường cao tốc",
+                        "chuHoSo": "Công ty TNHH Thịnh Nam",
+                        "coQuanXuLy": "Sở Văn hóa - Thể thao và Du lịch",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đã xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SLDTB-XH",
+                "name": "Sở Lao động - Thương binh và Xã hội",
+                "count": 0,
+                "id" : 12,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 8,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 22,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 15,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 26,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 4,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 45
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 8,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 10,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 5,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 10,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0093",
+                        "thuTuc": "Bổ nhiệm công chứng viên",
+                        "chuHoSo": "Hà Tiến Minh",
+                        "coQuanXuLy": "Sở Lao động - Thương binh và Xã hội",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0094",
+                        "thuTuc": "Cấp Giấy phép vận tải qua biên giới Campuchia - Lào - Việt Nam",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Hòa Nam",
+                        "coQuanXuLy": "Sở Lao động - Thương binh và Xã hội",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0095",
+                        "thuTuc":
+                          "Cấp Giấy phép loại A, E hoặc giấy phép loại B, C, F, G lần đầu trong năm",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Minh",
+                        "coQuanXuLy": "Sở Lao động - Thương binh và Xã hội",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "STP",
+                "name": "Sở Tư pháp",
+                "count": 0,
+                "id" : 13,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 18,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 3,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 2,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 5,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 5,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0096",
+                        "thuTuc": "Cấp giấy nhận chứng bị nhiễm HIV do tai nạn rủi ro nghề nghiệp",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thế Kỉ Mới",
+                        "coQuanXuLy": "Sở Tư pháp",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "STT-TT",
+                "name": "Sở Thông tin và Truyền thông",
+                "count": 0,
+                "id" : 14,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 8,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 10,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 38
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 8,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 9,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0097",
+                        "thuTuc":
+                          "Cấp giấy phép vận tải đường bộ quố tế GMS cho phương tiện của các doanh nghiệp, hợp tác xã",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thành Đô",
+                        "coQuanXuLy": "Sở Thông tin và Truyền thông",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0098",
+                        "thuTuc":
+                          "Thông báo lập địa điểm kinh doanh (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)",
+                        "chuHoSo": "Hộ kinh doanh Nga Mai",
+                        "coQuanXuLy": "Sở Thông tin và Truyền thông",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0099",
+                        "thuTuc": "Cấp lại Giấy chứng nhận đăng ký phương tiện",
+                        "chuHoSo": "Vũ Thị Oanh",
+                        "coQuanXuLy": "Sở Thông tin và Truyền thông",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SNoiVu",
+                "name": "Sở Nội vụ",
+                "count": 0,
+                "id" : 15,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 9,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 12,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 16,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 36
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 18,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 8,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 4,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0100",
+                        "thuTuc":
+                          "Cấp lại Giấy phép vận tải qua biên giới Campuchia - Lào - Việt Nam",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Minh",
+                        "coQuanXuLy": "Sở Nội vụ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0101",
+                        "thuTuc": "Cấp lại Giấy phép xe tập lái",
+                        "chuHoSo": "Nguyễn Nam Minh",
+                        "coQuanXuLy": "Sở Nội vụ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "SNgoaiVu",
+                "name": "Sở Ngoại vụ",
+                "count": 0,
+                "id" : 16,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 19,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 12,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 26,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 24,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 6,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 56
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 12,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 10,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 9,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 7,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0102",
+                        "thuTuc":
+                          "Cấp lại giấy chứng nhận trung tâm sát hạch lái xe đủ điều kiện hoạt động",
+                        "chuHoSo": "Công ty TNHH Minh Hòa",
+                        "coQuanXuLy": "Sở Ngoại vụ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Ngoại vụ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0104",
+                        "thuTuc":
+                          "Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp điều chỉnh hạng xe đào tạo, lưu lượng đào tạo",
+                        "chuHoSo": "Công ty TNHH Minh Nam",
+                        "coQuanXuLy": "Sở Ngoại vụ",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "TTT",
+                "name": "Thanh tra tỉnh",
+                "count": 0,
+                "id" : 17,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 10,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 8,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 15,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 20,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 3,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 38
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 7,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0105",
+                        "thuTuc": "Cấp phép thi công nút giao đấu nối vào quốc lộ",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Hà",
+                        "coQuanXuLy": "Thanh tra tỉnh",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0106",
+                        "thuTuc":
+                          "Cấp lại, đổi, điều chỉnh thông tin trên sổ bảo hiểm xã hội, thẻ bảo hiểm y tế",
+                        "chuHoSo": "Công ty TNHH Bắc Hà",
+                        "coQuanXuLy": "Thanh tra tỉnh",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "BQLKCNC",
+                "count": 0,
+                "id" : 18,
+                "name": "Ban quản lý khu công nghệ cao",
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 30,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 9,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 6,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 51
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 14,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 2,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 9,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 9,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 8,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 6,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0107",
+                        "thuTuc":
+                          "Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải",
+                        "chuHoSo": "Công ty TNHH Môi trường Xanh",
+                        "coQuanXuLy": "Ban quản lý khu công nghệ cao",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0108",
+                        "thuTuc":
+                          "Cấp Chứng chỉ hành nghề luật sư đối với người được miễn đào tạo nghề luật sư, miễn tập sự hành nghề luật sư",
+                        "chuHoSo": "Văn phòng Luật  Huy Hoàng",
+                        "coQuanXuLy": "Ban quản lý khu công nghệ cao",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0109",
+                        "thuTuc":
+                          "Cấp Chứng chỉ hành nghề luật sư đối với người đạt yêu cầu kiểm tra kết quả tập sự hành nghề luật sư",
+                        "chuHoSo": "Văn phòng Luật  Tiến Thịnh",
+                        "coQuanXuLy": "Ban quản lý khu công nghệ cao",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0110",
+                        "thuTuc":
+                          "Bổ sung, thay đổi thông tin của thuốc đã kê khai, kê khai lại trong trường hợp có thay đổi so với thông tin đã được công bố nhưng giá thuốc không đổi",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thành Đô",
+                        "coQuanXuLy": "Ban quản lý khu công nghệ cao",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "BQLKCNDN",
+                "name": "Ban quản lý các khu công nghiệp Đồng Nai",
+                "count": 0,
+                "id" : 19,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 13,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 8,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 33,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 12,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 53
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 5,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 7,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Ban quản lý các khu công nghiệp Đồng Nai",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "BDT",
+                "name": "Ban Dân tộc",
+                "count": 0,
+                "id" : 20,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 8,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 12,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 20,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 40
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 9,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 9,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0085",
+                        "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                        "coQuanXuLy": "Ban Dân tộc",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0086",
+                        "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                        "chuHoSo": "Cửa hàng Đức Huy",
+                        "coQuanXuLy": "Ban Dân tộc",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0087",
+                        "thuTuc":
+                          "Chuyển đổi công ty cổ phần thành công ty trách nhiệm hữu hạn một thành viên",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm An",
+                        "coQuanXuLy": "Ban Dân tộc",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      }
+                    ]
+                  }
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Địa phương",
+        "icon" : "LayersIcon",
+        "childs" : [
+            {
+                "key": "BienHoa",
+                "name": "UBND thành phố Biên Hòa",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 14,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 24,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 12,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 15,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 14,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 8,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 3,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 7,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 10,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                      "items": [
+                        {
+                            "maHoSo": "000.00.02.G05-210419-0082",
+                            "thuTuc": "Thủ tục cấp giấy phép thành lập và công nhận Điều lệ quỹ",
+                            "chuHoSo": "Hộ kinh doanh Dương Bá Ngọc",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0083",
+                            "thuTuc":
+                              "Cấp giấy phép hoạt động bán lẻ điện đến cấp điện áp 0,4kV tại địa phương",
+                            "chuHoSo": "Hộ kinh doanh Hoàng Hà Nga",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Chờ xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0084",
+                            "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                            "coQuanXuLy": "Sở Xây dựng",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0085",
+                            "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đang xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0086",
+                            "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                            "chuHoSo": "Cửa hàng Đức Huy",
+                            "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          }
+                        ]
+                  }
+                }
+
+            },
+            {
+                "key": "LongKhanh",
+                "name": "UBND thành phố Long Khánh",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 30,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 12,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 52
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 7,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 9,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "TanPhu",
+                "name": "UBND Huyện Tân Phú",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 8,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 12,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 10,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 30
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 7,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 2,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 9,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 10,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0084",
+                        "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                        "coQuanXuLy": "Sở Tài chính",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0085",
+                        "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                        "coQuanXuLy": "Sở Tài chính",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0086",
+                        "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                        "chuHoSo": "Cửa hàng Đức Huy",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "DinhQuan",
+                "name": "UBND huyện Định Quán",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 8,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 13,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 33
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 7,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 4,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 10,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 12,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 4,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0087",
+                        "thuTuc":
+                          "Chuyển đổi công ty cổ phần thành công ty trách nhiệm hữu hạn một thành viên",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm An",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "17/04/2021",
+                        "hanXuLy": "19/04/2021",
+                        "trangThai": "Quá hạn",
+                        "tinhTrang": "Đã xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0088",
+                        "thuTuc":
+                          "Cấp giấy phép rời cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ",
+                        "chuHoSo": "Công ty TNHH Thịnh Hoàng",
+                        "coQuanXuLy": "Cảng vụ Đường thủy nội địa khu vực I",
+                        "ngayTiepNhan": "18/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "TrangBom",
+                "name": "UBND huyện Trảng Bom",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 20,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 13,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 15,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 20,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 8,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 43
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 3,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 1,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 4,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 12,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 7,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "ThongNhat",
+                "name": "UBND huyện Thống Nhất",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 12,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 18,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 16,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 6,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 10,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 46
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 8,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 10,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 8,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 9,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "CamMy",
+                "name": "UBND huyện Cẩm Mỹ",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 20,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 10,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 30,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 55
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 9,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 1,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 6,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 3,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 3,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0097",
+                        "thuTuc":
+                          "Cấp giấy phép vận tải đường bộ quố tế GMS cho phương tiện của các doanh nghiệp, hợp tác xã",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Thành Đô",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0098",
+                        "thuTuc":
+                          "Thông báo lập địa điểm kinh doanh (đối với doanh nghiệp tư nhân, công ty TNHH, công ty cổ phần, công ty hợp danh)",
+                        "chuHoSo": "Hộ kinh doanh Nga Mai",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "LongThanh",
+                "name": "UBND huyện Long Thành",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 25,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 5,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 15,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 15,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 45
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 3,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 7,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 5,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 14,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 8,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 8,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0099",
+                        "thuTuc": "Cấp lại Giấy chứng nhận đăng ký phương tiện",
+                        "chuHoSo": "Vũ Thị Oanh",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0100",
+                        "thuTuc":
+                          "Cấp lại Giấy phép vận tải qua biên giới Campuchia - Lào - Việt Nam",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Minh",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0101",
+                        "thuTuc": "Cấp lại Giấy phép xe tập lái",
+                        "chuHoSo": "Nguyễn Nam Minh",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "20/04/2021",
+                        "trangThai": "Đến hạn",
+                        "tinhTrang": "Đang xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "NhonTrach",
+                "name": "UBND huyện Nhơn Trạch",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 10,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 19,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 11,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 10,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 18,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 12,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 40
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 10,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 12,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0102",
+                        "thuTuc":
+                          "Cấp lại giấy chứng nhận trung tâm sát hạch lái xe đủ điều kiện hoạt động",
+                        "chuHoSo": "Công ty TNHH Minh Hòa",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0103",
+                        "thuTuc":
+                          "Sáp nhập doanh nghiệp (đối với công ty TNHH, công ty cổ phần và công ty hợp danh)",
+                        "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Hòa Bình",
+                        "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0104",
+                        "thuTuc":
+                          "Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp điều chỉnh hạng xe đào tạo, lưu lượng đào tạo",
+                        "chuHoSo": "Công ty TNHH Minh Nam",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Đang xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0105",
+                        "thuTuc": "Cấp phép thi công nút giao đấu nối vào quốc lộ",
+                        "chuHoSo": "Công ty TNHH Xây Dựng Nam Hà",
+                        "coQuanXuLy": "Sở Giao thông vận tải",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "VinhCuu",
+                "name": "UBND huyện Vĩnh Cửu",
+                "count": 0,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 10,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 12,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                    "items": [
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0106",
+                        "thuTuc":
+                          "Cấp lại, đổi, điều chỉnh thông tin trên sổ bảo hiểm xã hội, thẻ bảo hiểm y tế",
+                        "chuHoSo": "Công ty TNHH Bắc Hà",
+                        "coQuanXuLy": "Sở Y tế",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      },
+                      {
+                        "maHoSo": "000.00.02.G05-210419-0107",
+                        "thuTuc":
+                          "Kê khai, thẩm định tờ khai phí bảo vệ môi trường đối với nước thải",
+                        "chuHoSo": "Công ty TNHH Môi trường Xanh",
+                        "coQuanXuLy": "Sở Tài nguyên và Môi trường",
+                        "ngayTiepNhan": "19/04/2021",
+                        "hanXuLy": "21/04/2021",
+                        "trangThai": "Trong hạn",
+                        "tinhTrang": "Chờ xử lý"
+                      }
+                    ]
+                  }
+                }
+            }
+        ],
+        "boxTable" : []
+    },
+    {
+        "id": 4,
+        "name": "Tình trạng xử lý",
+        "icon" : "LayersIcon",
+        "childs" : [
+            {
+                "key": "1",
+                "name": "Chờ xử lý",
+                "count": 6,
+                "dataApi": {
+                  "notshowPro": true,
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 10,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 12,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "boxTable" : {
+                    "fields": [],
+                      "items": [
+                        {
+                            "maHoSo": "000.00.02.G05-210419-0082",
+                            "thuTuc": "Thủ tục cấp giấy phép thành lập và công nhận Điều lệ quỹ",
+                            "chuHoSo": "Hộ kinh doanh Dương Bá Ngọc",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Chờ xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0083",
+                            "thuTuc":
+                              "Cấp giấy phép hoạt động bán lẻ điện đến cấp điện áp 0,4kV tại địa phương",
+                            "chuHoSo": "Hộ kinh doanh Hoàng Hà Nga",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Chờ xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0084",
+                            "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                            "coQuanXuLy": "Sở Xây dựng",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Chờ xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0085",
+                            "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Chờ xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0086",
+                            "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                            "chuHoSo": "Cửa hàng Đức Huy",
+                            "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Chờ xử lý"
+                          }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "2",
+                "name": "Đang xử lý",
+                "count": 13,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 10,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 12,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "notshowPro": true,
+                  "boxTable" : {
+                    "fields": [],
+                      "items": [
+                        {
+                            "maHoSo": "000.00.02.G05-210419-0082",
+                            "thuTuc": "Thủ tục cấp giấy phép thành lập và công nhận Điều lệ quỹ",
+                            "chuHoSo": "Hộ kinh doanh Dương Bá Ngọc",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đang xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0083",
+                            "thuTuc":
+                              "Cấp giấy phép hoạt động bán lẻ điện đến cấp điện áp 0,4kV tại địa phương",
+                            "chuHoSo": "Hộ kinh doanh Hoàng Hà Nga",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đang xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0084",
+                            "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                            "coQuanXuLy": "Sở Xây dựng",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đang xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0085",
+                            "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đang xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0086",
+                            "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                            "chuHoSo": "Cửa hàng Đức Huy",
+                            "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đang xử lý"
+                          }
+                    ]
+                  }
+                }
+            },
+            {
+                "key": "3",
+                "name": "Đã xử lý",
+                "count": 10,
+                "dataApi": {
+                  "hoso":
+                    {
+                      "data_hs": [
+                        {
+                            "value": 15,
+                            "text": "Đã xử lý",
+                            "key":"DAXULY"
+                        },
+                        {
+                            "value": 20,
+                            "text": "Chờ xử lý",
+                            "key":"CHOXULY"
+                        },
+                        {
+                            "value": 15,
+                            "text": "Đang xử lý",
+                            "key":"DANGXULY"
+                        }
+                    ],
+                    "status": [
+                        {
+                            "value": 20,
+                            "name": "Trong hạn",
+                            "key":"TRONGHAN"
+                        },
+                        {
+                            "value": 25,
+                            "name": "Đến hạn",
+                            "key":"DENHAN"
+                        },
+                        {
+                            "value": 5,
+                            "name": "Quá hạn",
+                            "key":"QUAHAN"
+                        }
+                    ],
+                    "max_process": 50
+                    },
+                    "thongke": [
+                      {
+                          "name": "Sở tài chính",
+                          "value": 10,
+                          "max": 21
+                      },
+                      {
+                          "name": "Sở Kế hoạch đầu tư",
+                          "value": 5,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở Nông nghiệp và phát triển nông thôn",
+                          "value": 6,
+                          "max": 6
+                      },
+                      {
+                          "name": "Sở Công thương",
+                          "value": 8,
+                          "max": 18
+                      },
+                      {
+                          "name": "Sở Xây dựng",
+                          "value": 12,
+                          "max": 15
+                      },
+                      {
+                          "name": "Sở Giao thông vận tải",
+                          "value": 6,
+                          "max": 8
+                      },
+                      {
+                          "name": "Sở tài nguyên môi trường",
+                          "value": 5,
+                          "max": 12
+                      }
+                  ],
+                  "notshowPro": true,
+                  "boxTable" : {
+                    "fields": [],
+                      "items": [
+                        {
+                            "maHoSo": "000.00.02.G05-210419-0082",
+                            "thuTuc": "Thủ tục cấp giấy phép thành lập và công nhận Điều lệ quỹ",
+                            "chuHoSo": "Hộ kinh doanh Dương Bá Ngọc",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0083",
+                            "thuTuc":
+                              "Cấp giấy phép hoạt động bán lẻ điện đến cấp điện áp 0,4kV tại địa phương",
+                            "chuHoSo": "Hộ kinh doanh Hoàng Hà Nga",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0084",
+                            "thuTuc": "Cấp lại chứng chỉ năng lực hoạt động xây dựng hạng II, III",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư",
+                            "coQuanXuLy": "Sở Xây dựng",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0085",
+                            "thuTuc": "Thông báo sửa đổi, bổ sung nội dung chương trình khuyến mại",
+                            "chuHoSo": "Trung tâm hỗ trợ doanh nghiệp, tư vấn xúc tiến đầu tư Tâm Sen",
+                            "coQuanXuLy": "Sở Công thương",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          },
+                          {
+                            "maHoSo": "000.00.02.G05-210419-0086",
+                            "thuTuc": "Thông báo thay đổi thông tin của cổ đông sáng lập công ty cổ phần",
+                            "chuHoSo": "Cửa hàng Đức Huy",
+                            "coQuanXuLy": "Sở Kế hoạch và Đầu tư",
+                            "ngayTiepNhan": "17/04/2021",
+                            "hanXuLy": "19/04/2021",
+                            "trangThai": "Quá hạn",
+                            "tinhTrang": "Đã xử lý"
+                          }
+                    ]
+                }
+                }
+            }
+        ]
+    }
+
+]

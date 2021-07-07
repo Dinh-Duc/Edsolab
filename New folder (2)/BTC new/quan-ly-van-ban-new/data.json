@@ -1,0 +1,380 @@
+{
+  "VBDEN_tongQuan": [
+    {
+      "id": "1",
+      "ngayNhan": "17/02/2021",
+      "soKyHieu": "99/2017/NĐ-CP",
+      "ngayBanHanh": "17/02/2021",
+      "trichYeu": "Thông báo thay đổi đăng ký kinh doanh lần thứ 13",
+      "coQuanBanHanh": "Sở KHĐT TP Hà Nội",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "25/12/2020",
+      "soKyHieu": "7571/UBCK-QLCB",
+      "ngayBanHanh": "25/12/2020",
+      "trichYeu": "Về việc báo cáo kết quả chào bán trái phiếu ra công chúng của Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài Chính",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDEN_chuaXuLyQuaHan": [
+    {
+      "id": "2",
+      "ngayNhan": "25/12/2020",
+      "soKyHieu": "7571/UBCK-QLCB",
+      "ngayBanHanh": "25/12/2020",
+      "trichYeu": "Về việc báo cáo kết quả chào bán trái phiếu ra công chúng của Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài Chính",
+      "trangThai": "Chưa xử lý"
+    }
+  ],
+  "VBDEN_chuaXuLyTrongHan": [
+    
+    {
+      "id": "2",
+      "ngayNhan": "25/12/2020",
+      "soKyHieu": "7571/UBCK-QLCB",
+      "ngayBanHanh": "25/12/2020",
+      "trichYeu": "Về việc báo cáo kết quả chào bán trái phiếu ra công chúng của Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài Chính",
+      "trangThai": "Chưa xử lý"
+    }
+  ],
+  "VBDEN_daXuLyQuaHan": [
+    {
+      "id": "2",
+      "ngayNhan": "25/12/2020",
+      "soKyHieu": "7571/UBCK-QLCB",
+      "ngayBanHanh": "25/12/2020",
+      "trichYeu": "Về việc báo cáo kết quả chào bán trái phiếu ra công chúng của Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài Chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "1",
+      "ngayNhan": "17/02/2021",
+      "soKyHieu": "99/2017/NĐ-CP",
+      "ngayBanHanh": "17/02/2021",
+      "trichYeu": "Thông báo thay đổi đăng ký kinh doanh lần thứ 13",
+      "coQuanBanHanh": "Sở KHĐT TP Hà Nội",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDEN_daXuLyTrongHan": [
+    {
+      "id": "1",
+      "ngayNhan": "17/02/2021",
+      "soKyHieu": "99/2017/NĐ-CP",
+      "ngayBanHanh": "17/02/2021",
+      "trichYeu": "Thông báo thay đổi đăng ký kinh doanh lần thứ 13",
+      "coQuanBanHanh": "Sở KHĐT TP Hà Nội",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDEN_dangXuLyQuaHan": [
+    {
+      "id": "2",
+      "ngayNhan": "25/12/2020",
+      "soKyHieu": "7571/UBCK-QLCB",
+      "ngayBanHanh": "25/12/2020",
+      "trichYeu": "Về việc báo cáo kết quả chào bán trái phiếu ra công chúng của Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài Chính",
+      "trangThai": "Đang xử lý"
+    },
+    {
+      "id": "1",
+      "ngayNhan": "17/02/2021",
+      "soKyHieu": "99/2017/NĐ-CP",
+      "ngayBanHanh": "17/02/2021",
+      "trichYeu": "Thông báo thay đổi đăng ký kinh doanh lần thứ 13",
+      "coQuanBanHanh": "Sở KHĐT TP Hà Nội",
+      "trangThai": "Đang xử lý"
+    }
+  ],
+  "VBDEN_dangXuLyTrongHan": [
+    {
+      "id": "5",
+      "ngayNhan": "13/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "13/06/2021",
+      "trichYeu": "NGHỊ ĐỊNH Về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt NamVề chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đang xử lý"
+    }
+  ],
+  "VBDI_TONG_QUAN": [
+    {
+      "id": "1",
+      "ngayNhan": "07/06/2021",
+      "soKyHieu": "13/TT-NHNN",
+      "ngayBanHanh": "08/06/2021",
+      "trichYeu": "Hướng dẫn bán cổ phần lần đầu và quản lý, sử dụng tiền thu từ cổ phần hóa của doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ chuyển đổi thành công ty cổ phần",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "04/06/2021",
+      "soKyHieu": "1100/QĐ-NHNN",
+      "ngayBanHanh": "04/06/2021",
+      "trichYeu": "Công bố Tài liệu Hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001:2015 áp dụng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Chưa xử lý"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "3649/QĐ-NHNN",
+      "ngayBanHanh": "09/06/2021",
+      "trichYeu": "Đính chính Thông tư số 38/2021/TT-BTC",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "4",
+      "ngayNhan": "30/05/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "30/05/2021",
+      "trichYeu": "Bổ sung tiêu chuẩn, định mức sử dụng máy móc thiết bị chuyên dùng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "5",
+      "ngayNhan": "13/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "13/06/2021",
+      "trichYeu": "NGHỊ ĐỊNH Về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt NamVề chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDI_CHO_TRINH_KY": [
+    {
+      "id": "4",
+      "ngayNhan": "30/05/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "30/05/2021",
+      "trichYeu": "Bổ sung tiêu chuẩn, định mức sử dụng máy móc thiết bị chuyên dùng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "5",
+      "ngayNhan": "13/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "13/06/2021",
+      "trichYeu": "NGHỊ ĐỊNH Về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt NamVề chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDI_CHO_XU_LY": [
+    {
+      "id": "5",
+      "ngayNhan": "13/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "13/06/2021",
+      "trichYeu": "NGHỊ ĐỊNH Về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt NamVề chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDI_DA_XU_LY": [
+    {
+      "id": "2",
+      "ngayNhan": "04/06/2021",
+      "soKyHieu": "1100/QĐ-NHNN",
+      "ngayBanHanh": "04/06/2021",
+      "trichYeu": "Công bố Tài liệu Hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001:2015 áp dụng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Chưa xử lý"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "3649/QĐ-NHNN",
+      "ngayBanHanh": "09/06/2021",
+      "trichYeu": "Đính chính Thông tư số 38/2021/TT-BTC",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "4",
+      "ngayNhan": "30/05/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "30/05/2021",
+      "trichYeu": "Bổ sung tiêu chuẩn, định mức sử dụng máy móc thiết bị chuyên dùng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDI_DA_TRA_LAI": [
+    {
+      "id": "4",
+      "ngayNhan": "30/05/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "30/05/2021",
+      "trichYeu": "Bổ sung tiêu chuẩn, định mức sử dụng máy móc thiết bị chuyên dùng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "5",
+      "ngayNhan": "13/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "13/06/2021",
+      "trichYeu": "NGHỊ ĐỊNH Về chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt NamVề chế độ quản lý tài chính và đánh giá hiệu quả hoạt động đối với Ngân hàng Phát triển Việt Nam",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    }
+
+  ],
+  "VBDI_CHO_Y_KIEN": [
+    {
+      "id": "3",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "3649/QĐ-NHNN",
+      "ngayBanHanh": "09/06/2021",
+      "trichYeu": "Đính chính Thông tư số 38/2021/TT-BTC",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "4",
+      "ngayNhan": "30/05/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "30/05/2021",
+      "trichYeu": "Bổ sung tiêu chuẩn, định mức sử dụng máy móc thiết bị chuyên dùng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VBDI_CHO_CAP_SO": [
+    {
+      "id": "1",
+      "ngayNhan": "07/06/2021",
+      "soKyHieu": "13/TT-NHNN",
+      "ngayBanHanh": "08/06/2021",
+      "trichYeu": "Hướng dẫn bán cổ phần lần đầu và quản lý, sử dụng tiền thu từ cổ phần hóa của doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên do doanh nghiệp nhà nước đầu tư 100% vốn điều lệ chuyển đổi thành công ty cổ phần",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "04/06/2021",
+      "soKyHieu": "1100/QĐ-NHNN",
+      "ngayBanHanh": "04/06/2021",
+      "trichYeu": "Công bố Tài liệu Hệ thống quản lý chất lượng theo tiêu chuẩn quốc gia TCVN ISO 9001:2015 áp dụng tại các đơn vị thuộc khối cơ quan Bộ Tài chính",
+      "coQuanBanHanh": "Bộ Tài chính",
+      "trangThai": "Chưa xử lý"
+    }
+  ],
+  "DVCM": [
+    {
+      "id": "2",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "1100/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về tiêu chuẩn chức danh lãnh đạo, quản lý thuộc Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "3649/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về quy chế đánh giá, phân loại đối với đơn vị và công chức, viên chức của Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "4",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Thực hiện Đề án “Phát triển nguồn tin khoa học và công nghệ phục vụ nghiên cứu khoa học và phát triển công nghệ đến năm 2025, định hướng đến năm 2030” tại tỉnh Quảng Ninh",
+      "coQuanBanHanh": "UBND tỉnh Quảng Ninh",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "5",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về quy chế đi nước ngoài giải quyết việc riêng đối với công chức, viên chức thuộc Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "VNC": [
+    {
+      "id": "1",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "13/TT-NHNN",
+      "ngayBanHanh": "08/06/2021",
+      "trichYeu": "Về \"Quy chuẩn kỹ thuật quốc gia về thép làm cốt bê tông\" do Bộ trưởng Bộ Khoa học và Công nghệ ban hành",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "2",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "1100/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về tiêu chuẩn chức danh lãnh đạo, quản lý thuộc Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "3649/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về quy chế đánh giá, phân loại đối với đơn vị và công chức, viên chức của Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    }
+  ],
+  "DVSN": [
+    {
+      "id": "2",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "1100/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về tiêu chuẩn chức danh lãnh đạo, quản lý thuộc Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "3",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "3649/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về quy chế đánh giá, phân loại đối với đơn vị và công chức, viên chức của Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "4",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "60/KH-UBND",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Thực hiện Đề án “Phát triển nguồn tin khoa học và công nghệ phục vụ nghiên cứu khoa học và phát triển công nghệ đến năm 2025, định hướng đến năm 2030” tại tỉnh Quảng Ninh",
+      "coQuanBanHanh": "UBND tỉnh Quảng Ninh",
+      "trangThai": "Đã xử lý"
+    },
+    {
+      "id": "5",
+      "ngayNhan": "09/06/2021",
+      "soKyHieu": "76/QĐ-NHNN",
+      "ngayBanHanh": "07/06/2021",
+      "trichYeu": "Về quy chế đi nước ngoài giải quyết việc riêng đối với công chức, viên chức thuộc Bộ Khoa học và Công nghệ",
+      "coQuanBanHanh": "Bộ KH&CN",
+      "trangThai": "Đã xử lý"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false,
+          "class": "w-14",
+          "thClass": "text-center align-middle pt1-0",
+          "tdClass": "p-1 word-break"
+        }
+      ]
+}

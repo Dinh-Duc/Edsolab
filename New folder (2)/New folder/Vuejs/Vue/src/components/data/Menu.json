@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Sự kiện",
+        "Child": [
+            {
+                "Id": 1,
+                "Name": "Chung",
+                "Key": "sk_Chung",
+                "Total": 90
+            },
+            {
+                "Id": 2,
+                "Name": "Phát động",
+                "Key": "sk_phatDong",
+                "Total": 21
+            },
+            {
+                "Id": 3,
+                "Name": "Tham dự",
+                "Key": "sk_thamDu",
+                "Total": 32
+            },
+            {
+                "Id": 4,
+                "Name": "Được mời",
+                "Key": "sk_duocMoi",
+                "Total": 12
+            }
+            
+        ]
+    },
+
+    {
+        "Name": "Kết nối",
+        "Child": [
+            {
+                "Id": 5,
+                "Name": "Quốc tế",
+                "Key": "kn_qt_quocTe"
+            },
+            {
+                "Id": 5,
+                "Name": "Các tổ chức",
+                "Key": "kn_qt_cacToChuc",
+                "Total": 12
+            },
+            {
+                "Id": 6,
+                "Name": "Các đơn vị hành chính",
+                "Key": "kn_qt_dvHanhChinh",
+                "Total": 12
+            },
+            {
+                "Id": 7,
+                "Name": "Trong nước",
+                "Key": "kn_tn_trongNuoc"
+            },
+            {
+                "Id": 7,
+                "Name": "Chính phủ",
+                "Key": "kn_tn_chinhPhu",
+                "Total": 12
+            },
+            {
+                "Id": 8,
+                "Name": "Các cơ quan khác",
+                "Key": "kn_tn_coQuanKhac",
+                "Total": 12
+            }
+        ]
+    }
+]

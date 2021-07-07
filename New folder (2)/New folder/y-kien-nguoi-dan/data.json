@@ -1,0 +1,1133 @@
+{
+  "DONVIHANHCHINH": {
+    "progress": 67,
+    "dataProgress": [
+      {
+        "value": 5,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 30,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 17,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 15,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 30,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 17,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 20,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Vụ Tổ chức - Biên chế",
+        "value": 15,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tiền lương",
+        "value": 60,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tiền lương",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Cục Văn thư và Lưu trữ nhà nước",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Vụ Chính quyền địa phương",
+        "value": 60,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false
+        }
+      ],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Kính gửi Bộ Nội vụ, Tôi có thắc mắc liên quan đến tên ngành tuyển dụng công chức. Tôi tốt nghiệp ngành Quản lý nhà nước, hệ Chính quy tại Học viện Hành chính Quốc gia năm 2019...",
+          "COQUANXULY": "Học viện Hành chính quốc gia",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Theo Nghị định 90/2020/NĐ-CP nếu viên chức không nhất trí với kết quả xếp loại thi đua thì thực hiện việc kiến nghị (trước đây là thực hiện quyền khiếu nại). Do nhận thấy hình thức xếp loại ...",
+          "COQUANXULY": "Học viện Hành chính quốc gia",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+
+        {
+          "NOIDUNGPHANANH": "Tên tôi là Hồ Trọng Thủy, sinh ngày 30/8/1966 nghề nghiệp: Giáo viên đang dạy tại trường THPT Hạ Hòa tỉnh Phú Thọ. Thời gian đóng bảo hiểm : 35 năm 6 tháng. Năm 2020 tôi bị ốm phải điều trị tại bệnh viện Hạ Hòa ",
+          "COQUANXULY": "Tạp chí Tổ chức nhà nước",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Theo Nghị định 90/2020/NĐ-CP nếu viên chức không nhất trí với kết quả xếp loại thi đua thì thực hiện việc kiến nghị (trước đây là thực hiện quyền khiếu nại). Do nhận thấy hình thức xếp loại thi đua đối năm 2020...",
+          "COQUANXULY": "Viện Khoa học tổ chức nhà nước",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi là công chức đang công tác tại 1 đơn vị hành chính thuộc tỉnh và là Đảng Viên. Năm 2019, tôi sinh con thứ 3. Vào tháng 10, năm 2019 tôi bị xử lý kỷ luật về Đảng với hình thức là khiển trách. Về chính quyền thì...",
+          "COQUANXULY": "Viện Khoa học tổ chức nhà nước",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        }
+      ]
+    }
+  },
+  "DONVISUNGHIEP": {
+    "progress": 245,
+    "dataProgress": [
+      {
+        "value": 50,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 130,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 40,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 25,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 100,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 100,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 45,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Học viện Hành chính quốc gia",
+        "value": 71,
+        "max": 100
+      },
+      {
+        "name": "Trường Đại học Nội vụ Hà Nội",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Viện Khoa học tổ chức nhà nước",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Tạp chí Tổ chức nhà nước",
+        "value": 16,
+        "max": 100
+      },
+      {
+        "name": "Trung tâm Thông tin",
+        "value": 55,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false
+        }
+      ],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Theo các quy định tại Nghị định số 16/2015/NĐ-CP ngày 14/02/2015 và số 141/NĐ-CP ngày 10/10/2016...",
+          "COQUANXULY": "Học viện Hành chính quốc gia",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Thành Chung, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Trường Đại học Nội vụ Hà Nội",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Kính gửi: Bộ Nội vụ Tên tôi là: Nguyễn Đăng Thanh hiện nay tôi đang công tác tại Bệnh viện lao và bệnh...",
+          "COQUANXULY": "Viện Khoa học tổ chức nhà nước",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        }
+      ]
+    }
+  },
+  "CHOXULY": {
+    "progress": 200,
+    "dataProgress": [
+      {
+        "value": 25,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 75,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 50,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 50,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 150,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Văn phòng Bộ",
+        "value": 15,
+        "max": 100
+      },
+      {
+        "name": "Thanh tra Bộ",
+        "value": 60,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức cán bộ",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Vụ Hợp tác quốc tế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Pháp chế",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Kế hoạch - Tài chính",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổng hợp",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Chính quyền địa phương",
+        "value": 70,
+        "max": 100
+      },
+      {
+        "name": "Vụ Cải cách hành chính",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức - Biên chế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công chức - Viên chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Đào tạo, bồi dưỡng cán bộ, công chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tiền lương",
+        "value": 10,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức phi chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công tác thanh niên",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Ban Thi đua - Khen thưởng Trung ương",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Ban Tôn giáo Chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Cục Văn thư và Lưu trữ nhà nước",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Học viện Hành chính quốc gia",
+        "value": 71,
+        "max": 100
+      },
+      {
+        "name": "Trường Đại học Nội vụ Hà Nội",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Viện Khoa học tổ chức nhà nước",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Tạp chí Tổ chức nhà nước",
+        "value": 16,
+        "max": 100
+      },
+      {
+        "name": "Trung tâm Thông tin",
+        "value": 55,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false
+        }
+      ],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Kính gửi Bộ Nội vụ, Tôi có thắc mắc liên quan đến tên ngành tuyển dụng công chức. Tôi tốt nghiệp ngành Quản lý nhà nước, hệ Chính quy tại Học viện Hành chính Quốc gia năm 2019...",
+          "COQUANXULY": "Thanh tra Bộ",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Theo Nghị định 90/2020/NĐ-CP nếu viên chức không nhất trí với kết quả xếp loại thi đua thì thực hiện việc kiến nghị (trước đây là thực hiện quyền khiếu nại). Do nhận thấy hình thức xếp loại ...",
+          "COQUANXULY": "Vụ Đào tạo, bồi dưỡng cán bộ, công chức, viên chức",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tên tôi là Hồ Trọng Thủy, sinh ngày 30/8/1966 nghề nghiệp: Giáo viên đang dạy tại trường THPT Hạ Hòa tỉnh Phú Thọ. Thời gian đóng bảo hiểm : 35 năm 6 tháng. Năm 2020 tôi bị ốm phải điều trị tại bệnh viện Hạ Hòa ",
+          "COQUANXULY": "Vụ Công chức - Viên chức",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Theo Nghị định 90/2020/NĐ-CP nếu viên chức không nhất trí với kết quả xếp loại thi đua thì thực hiện việc kiến nghị (trước đây là thực hiện quyền khiếu nại). Do nhận thấy hình thức xếp loại thi đua đối năm 2020...",
+          "COQUANXULY": "Vụ Tổ chức - Biên chế",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi là công chức đang công tác tại 1 đơn vị hành chính thuộc tỉnh và là Đảng Viên. Năm 2019, tôi sinh con thứ 3. Vào tháng 10, năm 2019 tôi bị xử lý kỷ luật về Đảng với hình thức là khiển trách. Về chính quyền thì...",
+          "COQUANXULY": "Vụ Công chức - Viên chức",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        }
+      ]
+    }
+  },
+  "DANGXULY": {
+    "progress": 120,
+    "dataProgress": [
+      {
+        "value": 50,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 20,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 25,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 25,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 50,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Văn phòng Bộ",
+        "value": 15,
+        "max": 100
+      },
+      {
+        "name": "Thanh tra Bộ",
+        "value": 60,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức cán bộ",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Vụ Hợp tác quốc tế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Pháp chế",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Kế hoạch - Tài chính",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổng hợp",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Chính quyền địa phương",
+        "value": 70,
+        "max": 100
+      },
+      {
+        "name": "Vụ Cải cách hành chính",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức - Biên chế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công chức - Viên chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Đào tạo, bồi dưỡng cán bộ, công chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tiền lương",
+        "value": 10,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức phi chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công tác thanh niên",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Ban Thi đua - Khen thưởng Trung ương",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Ban Tôn giáo Chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Cục Văn thư và Lưu trữ nhà nước",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Học viện Hành chính quốc gia",
+        "value": 71,
+        "max": 100
+      },
+      {
+        "name": "Trường Đại học Nội vụ Hà Nội",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Viện Khoa học tổ chức nhà nước",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Tạp chí Tổ chức nhà nước",
+        "value": 16,
+        "max": 100
+      },
+      {
+        "name": "Trung tâm Thông tin",
+        "value": 55,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false
+        }
+      ],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Theo các quy định tại Nghị định số 16/2015/NĐ-CP ngày 14/02/2015 và số 141/NĐ-CP ngày 10/10/2016...",
+          "COQUANXULY": "Vụ Công chức - Viên chức",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Thành Chung, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Văn phòng Bộ",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Kính gửi: Bộ Nội vụ Tên tôi là: Nguyễn Đăng Thanh hiện nay tôi đang công tác tại Bệnh viện lao và bệnh...",
+          "COQUANXULY": "Văn phòng Bộ",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        }
+      ]
+    }
+  },
+  "DAXULY": {
+    "progress": 310,
+    "dataProgress": [
+      {
+        "value": 160,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 40,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 70,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 40,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 100,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 100,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 110,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Văn phòng Bộ",
+        "value": 15,
+        "max": 100
+      },
+      {
+        "name": "Thanh tra Bộ",
+        "value": 60,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức cán bộ",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Vụ Hợp tác quốc tế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Pháp chế",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Kế hoạch - Tài chính",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổng hợp",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Chính quyền địa phương",
+        "value": 70,
+        "max": 100
+      },
+      {
+        "name": "Vụ Cải cách hành chính",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức - Biên chế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công chức - Viên chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Đào tạo, bồi dưỡng cán bộ, công chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tiền lương",
+        "value": 10,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức phi chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công tác thanh niên",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Ban Thi đua - Khen thưởng Trung ương",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Ban Tôn giáo Chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Cục Văn thư và Lưu trữ nhà nước",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Học viện Hành chính quốc gia",
+        "value": 71,
+        "max": 100
+      },
+      {
+        "name": "Trường Đại học Nội vụ Hà Nội",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Viện Khoa học tổ chức nhà nước",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Tạp chí Tổ chức nhà nước",
+        "value": 16,
+        "max": 100
+      },
+      {
+        "name": "Trung tâm Thông tin",
+        "value": 55,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false
+        }
+      ],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi có người thân là nữ, sinh ngày 15/12/1970, công tác trong một đơn vị sự nghiệp, có thời gian đóng BHXH đến thời điểm hiện tại là ...",
+          "COQUANXULY": "Vụ Tổ chức - Biên chế",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "25/05/2021",
+          "TRANGTHAI": "Đã xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Kính gửi: Bộ Nội Vụ! Tôi có một câu hỏi liên quan đến Luật cán bộ, công chức và Nghị định 138/2020/NĐ-CP...",
+          "COQUANXULY": "Thanh tra Bộ",
+          "NGAYTIEPNHAN": "05/03/2021",
+          "NGAYXULY": "02/04/2021",
+          "TRANGTHAI": "Đã xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Bắc Giang, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Thanh tra Bộ",
+          "NGAYTIEPNHAN": "08/02/2021",
+          "NGAYXULY": "07/03/2021",
+          "TRANGTHAI": "Đã xử lý"
+        }
+      ]
+    }
+  },
+  "QUAHANXULY": {
+    "progress": 150,
+    "dataProgress": [
+      {
+        "value": 50,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 20,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 30,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 50,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 100,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Văn phòng Bộ",
+        "value": 15,
+        "max": 100
+      },
+      {
+        "name": "Thanh tra Bộ",
+        "value": 60,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức cán bộ",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Vụ Hợp tác quốc tế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Pháp chế",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Kế hoạch - Tài chính",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổng hợp",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Chính quyền địa phương",
+        "value": 70,
+        "max": 100
+      },
+      {
+        "name": "Vụ Cải cách hành chính",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức - Biên chế",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công chức - Viên chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Đào tạo, bồi dưỡng cán bộ, công chức",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tiền lương",
+        "value": 10,
+        "max": 100
+      },
+      {
+        "name": "Vụ Tổ chức phi chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Vụ Công tác thanh niên",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Ban Thi đua - Khen thưởng Trung ương",
+        "value": 30,
+        "max": 100
+      },
+      {
+        "name": "Ban Tôn giáo Chính phủ",
+        "value": 40,
+        "max": 100
+      },
+      {
+        "name": "Cục Văn thư và Lưu trữ nhà nước",
+        "value": 20,
+        "max": 100
+      },
+      {
+        "name": "Học viện Hành chính quốc gia",
+        "value": 71,
+        "max": 100
+      },
+      {
+        "name": "Trường Đại học Nội vụ Hà Nội",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Viện Khoa học tổ chức nhà nước",
+        "value": 23,
+        "max": 100
+      },
+      {
+        "name": "Tạp chí Tổ chức nhà nước",
+        "value": 16,
+        "max": 100
+      },
+      {
+        "name": "Trung tâm Thông tin",
+        "value": 55,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [
+        {
+          "key": "STT",
+          "label": "STT",
+          "sortable": false
+        },
+        {
+          "key": "NOIDUNGPHANANH",
+          "label": "NỘI DUNG PHẢN ÁNH",
+          "sortable": false
+        },
+        {
+          "key": "COQUANXULY",
+          "label": "CƠ QUAN XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "NGAYTIEPNHAN",
+          "label": "NGÀY TIẾP NHẬN",
+          "sortable": false
+        },
+        {
+          "key": "NGAYXULY",
+          "label": "Ngày XỬ LÝ",
+          "sortable": false
+        },
+        {
+          "key": "TRANGTHAI",
+          "label": "TRẠNG THÁI",
+          "sortable": false
+        }
+      ],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Thành Chung, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Thanh tra Bộ",
+          "NGAYTIEPNHAN": "05/02/2021",
+          "NGAYXULY": "14/04/2021",
+          "TRANGTHAI": "Quá hạn"
+        }
+      ]
+    }
+  }
+}

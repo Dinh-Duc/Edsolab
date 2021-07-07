@@ -1,0 +1,127 @@
+{
+    "data_btn": {
+        "btn_sua": {
+            "data":{
+                "name": "Sửa",
+                "icon": "EditIcon",
+                "type_icon": "feather",
+                "variant": "info",
+                "class": ""
+            }
+        },
+        "btn_duyet": {
+            "data": {
+                "name": "Duyệt",
+                "icon": "",
+                "type_icon": "feather",
+                "variant": "warning",
+                "class": "",
+                "child": [
+                    {
+                        "data": {
+                            "name": "Hủy gửi duyệt",
+                            "icon": "",
+                            "type_icon": "feather",
+                            "variant": "warning",
+                            "class": ""
+                        }
+                    },
+                    {
+                        "data": {
+                            "name": "Chấp nhận duyệt",
+                            "icon": "",
+                            "type_icon": "feather",
+                            "variant": "success",
+                            "class": ""
+                        }
+                    },
+                    {
+                        "data": {
+                            "name": "Từ chối duyệt",
+                            "icon": "",
+                            "type_icon": "feather",
+                            "variant": "danger",
+                            "class": ""
+                        }
+                    }
+                ]
+            }
+        },
+        "btn_thuhoi": {
+            "data": {
+                "name": "Thu hồi",
+                "icon": "",
+                "type_icon": "feather",
+                "variant": "warning",
+                "class": "",
+                "child": [
+                    {
+                        "data": {
+                            "name": "Thu hồi",
+                            "icon": "",
+                            "type_icon": "feather",
+                            "variant": "warning",
+                            "class": ""
+                        }
+                    }
+                ]
+            }
+        },
+        "btn_tuchoiduyetphong": {
+            "data": {
+                "name": "Từ chối duyệt",
+                "icon": "",
+                "type_icon": "feather",
+                "variant": "warning",
+                "class": "",
+                "child": [
+                    {
+                        "data": {
+                            "name": "Thu hồi",
+                            "icon": "",
+                            "type_icon": "feather",
+                            "variant": "warning",
+                            "class": ""
+                        }
+                    },
+                    {
+                        "data": {
+                            "name": "Hủy gửi duyệt",
+                            "icon": "",
+                            "type_icon": "feather",
+                            "variant": "danger",
+                            "class": ""
+                        }
+                    }
+                ]
+            }
+        },
+        "btn_choykien": {
+            "data": {
+                "name": "Cho ý kiến",
+                "icon": "",
+                "type_icon": "feather",
+                "variant": "primary",
+                "class": ""
+            }
+        },
+        "btn_dangKyBocBang": {
+            "data": {
+                "name": "Tạo phiên bóc băng",
+                "icon": "",
+                "type_icon": "feather",
+                "variant": "secondary",
+                "class": ""
+            }
+        },
+        "btn_xacnhanthamdu": {
+            "data": {
+                "name": "Xác nhận tham dự",
+                "icon": "",
+                "type_icon": "feather",
+                "variant": "success",
+                "class": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,517 @@
+{
+    "baocao" : [
+        {
+            "title" : "Làm cách nào để tôi có thể xem được các báo cáo khác nhau?",
+            "content": "<p><strong>Bước 1 : </strong> Chọn mục tiêu báo cáo</p><p><strong>Bước 2 : </strong> Lựa chọn báo cáo mà bạn muốn xem trên thanh menu phụ</p>"
+        },
+        {
+            "title" : "Sao có những báo cáo tôi không truy cập được?",
+            "content": "<p>Các báo cáo được hiển thị theo quyền hạn được thiết lập theo phòng ban, chức vụ của tài khoản đang đăng nhập nhằm kiểm soát vùng dữ liệu được phép sử dụng.</p>"
+        }
+    ],
+    "lichlamviec": [
+        {
+            "title" : "Danh sách lịch sẽ được hiển thị những loại lịch nào?",
+            "content": "<p>Lịch hiển thị trong phần này sẽ bao gồm: </p><p>- Lịch làm việc</p><p>- Lịch công tác trong nước</p><p>- Lịch công tác nước ngoài</p><p>- Lịch tiếp dân</p><p>- Lịch họp</p>"
+        },
+        {
+            "title" : "Tôi muốn tạo lịch thì phải làm như nào?",
+            "content": "<p><strong>Bước 1:</strong> Chọn mục <strong>Lịch làm việc</strong> trên menu chính</p><p><strong>Bước 2: </strong>Click vào button <strong>Tạo mới</strong> phía trên bảng lịch</p><p><strong>Bước 3: </strong>Lựa chọn loại lịch cần tạo trên pop-up</p><p><strong>Bước 4: </strong> Nhập các thông tin cần thiết vào mẫu</p><p><strong>Bước 5: </strong> Click button <strong>Lưu</strong> để lưu lại</p>"
+        },
+        {
+            "title" : "Các Tag trong lịch tiếp dân là như nào vậy?",
+            "content": "<p>Các tag ở đây được hiểu là các từ khóa hỗ trợ kết nối lịch tiếp dân với toàn bộ thông tin của phản ánh kiến nghị liên quan theo ngành:</p><p>- Ý kiến người dân</p><p>- Nhiệm vụ cần xử lý</p><p>- Văn bản đến</p><p>- Văn bản đi</p>"
+        },
+        {
+            "title" : "Có những cách nào để xem danh sách lịch làm việc?",
+            "content": "<p>Có 2 cách hiển thị là: </p><p>- Dạng liệt kê</p><p>- Dạng lưới lịch</p>",
+            "images": [
+                "llv1.jpg",
+                "llv2.jpg"
+            ]
+        },
+        {
+            "title" : "Tôi có thể xem chi tiết lịch làm việc bằng cách nào?",
+            "content": "<p><strong>Bước 1: </strong> Mở danh sách lịch </p><p><strong>Bước 2: </strong> Click vào lịch cần xem</p>",
+            "images": [
+                "llv3.jpg",
+                "llv4.jpg"
+            ]
+        },
+        {
+            "title" : "Có thể chỉnh sửa lịch được không?",
+            "content": "<p>Lịch chỉ có thể được chỉnh sửa bởi người tạo ra lịch đó. Các khách mời, thành phần phối hợp sẽ không có quyền chỉnh sửa lịch.</p>"
+        },
+        {
+            "title" : "Thao tác chỉnh sửa lịch như nào?",
+            "content": "<p><strong>Bước 1: </strong>Mở xem chi tiết lịch </p><p><strong>Bước 2: </strong> Click vào button <b>Chỉnh sửa</b> trên pop-up chi tiết lịch</p><p><strong>Bước 3: </strong> Cập nhật lại thông tin cần thay đổi</p><p><strong>Bước 4: </strong>Click button <b>Lưu<b> để lưu lại</p>",
+            "images": [
+                "llv5.jpg",
+                "llv6.jpg"
+            ]
+        },
+        {
+            "title" : "Tôi có thể xem lịch làm việc của người khác được hay không?",
+            "content": "<p>Hệ thống hỗ trợ người dùng có thể xem được lịch của bản thân, các lịch công khai của đơn vị và lãnh đạo.</p>"
+        },
+        {
+            "title" : "Làm các nào để tôi tìm kiếm một lịch công tác của mình?",
+            "content": "<p><strong>Bước 1: </strong>Click vào biểu tượng tìm kiếm </p><p><strong>Bước 2: </strong>  Nhập từ khóa tìm kiếm theo tiêu đề và nội dung của lịch làm việc</p><p><strong>Bước 3: </strong> Danh sách các lịch khớp với từ khóa sẽ được hiển thị phía dưới</p>",
+            "images": [
+                "llv7.jpg"
+            ]
+        },
+        {
+            "title" : "Những ai có thể xóa được lịch làm việc, lịch công tác hay lịch tiếp dân ?",
+            "content": "<p>Lịch chỉ có thể được xóa bởi người tạo ra lịch đó hoặc chính người được tạo lịch hộ. Các khách mời, thành phần phối hợp sẽ không có quyền xóa lịch.</p>"
+        },
+        {
+            "title" : "Tôi làm cách nào để xóa lịch?",
+            "content": "<p class='mb-1'><div><b>Cách 1 :</b></div><p><b>Bước 1: </b> Click vào icon xóa tại danh sách lịch</p><p><b>Bước 2:</b> Chọn đồng ý trên pop-up xác nhận xóa</p></p><p><div><b>Cách 2 :</b></div><p><b>Bước 1: </b> Mở chi tiết lịch </p><p><b>Bước 2:</b> Click vào button <b>Xóa</b> trên pop-up lịch</p><p><b>Bước 3:</b> Chọn đồng ý trên pop-up xác nhận xóa</p></p>",
+            "images": [
+                "llv8.jpg",
+                "llv9.jpg",
+                "llv10.jpg",
+                "llv11.jpg"
+            ]
+        },
+        {
+            "title" : "Làm cách nào để phản hồi lời mời phối hợp từ đơn vị khác",
+            "content": "<p>Khi nhận được lời mời phối hợp từ đơn vị khác, hệ thống sẽ gửi thông báo cho bên đơn vị, cá nhân được mời và gửi lại thông báo cho người mời sau khi xác nhận phản hồi theo các bước sau:</p><p><b>Bước 1:</b> Click vào thông báo mời phối hợp</p><p><b>Bước 2:</b> Lựa chọn phản hồi mong muốn trên pop-up:</p><p>- Tham gia: Lịch sẽ tự động được thêm vào danh sách lịch của đơn vị/cá nhân đó</p><p>- Không tham gia: Lịch sẽ không có trong danh sách lịch của cá nhân/đơn vị đó nữa</p><p>- Có thể tham gia: Lịch sẽ được thêm vào trong danh sách lịch của cá nhân/đơn vị đó</p>",
+            "images": [
+                "llv12.jpg"
+            ]
+        },
+        {
+            "title" : "Lịch có tự động nhắc nhở tôi khi sắp đến thời gian diễn ra hay không?",
+            "content": "<p>Hệ thống sẽ hỗ trợ gửi thông báo khi đến thời gian người dùng tùy chỉnh nhắc lịch trước đó tại biểu mẫu tạo lịch</p>"
+        },
+        {
+            "title" : "Tôi có thể hủy lịch được không? Khi tôi hủy có thông báo gì không?",
+            "content": "<p>Hệ thống cho phép người sử dụng hủy lịch ngay tại màn hình danh sách lịch. Đối tượng được hủy lịch: cá nhân tự tạo lịch, người được tạo hộ lịch. Sau khi lịch bị hủy, hệ thống gửi thông báo cho các đơn vị phối hợp và thành phần phối hợp</p>"
+        },
+        {
+            "title" : "Tôi có thể tạo lịch hộ được không?",
+            "content": "<p>Người tạo lịch có thể tạo hộ lịch cho người khác được bằng cách lựa chọn người chủ trì là người được tạo hộ trên biểu mẫu tạo lịch. Chú ý lịch tạo hộ cần được người được tạo hộ duyệt lịch đó.</p>"
+        }
+    ],
+    "hop": [
+        {
+            "title" : "Các tính năng chính",
+            "content": "<p>1. Tích hợp họp trực tuyến</p><p>2. Quản lý toàn diện các cuộc họp của cơ quan</p><p>- Trước cuộc họp</p><p>+ Đăng ký và duyệt lịch họp</p><p>+ Mời họp, phân phối tài liệu họp</p><p>- Trong cuộc họp</p><p>+ Tích hợp điểm danh nhận dạng khuôn mặt</p><p>+ Tích hợp điểm danh chấm công</p><p>- Sau cuộc họp</p><p>+ Đồng bộ dữ liệu ghi âm từ hệ thống bóc băng</p><p>+ Lưu trữ nhật ký cuộc họp</p>"
+        },
+        {
+            "title" : "Tôi muốn tạo lịch họp thì phải làm như nào?",
+            "content": "<p>Các bước cơ bàn để tạo được 1 lịch họp:</p><p><b>Bước 1:</b> Chọn mục <b>Lịch họp</b> trên menu chính</p><p><b>Bước 2:</b> Click vào button <b>Đăng ký</b> phía trên bảng lịch</p><p><b>Bước 3:</b> Nhập các thông tin cần thiết vào mẫu</p><p><b>Bước 4:</b> Click button <b>Lưu</b> để lưu lại</p>"
+        },
+        {
+            "title" : "Tôi có thể tạo lịch hộ được không?",
+            "content": "<p>Người tạo lịch có thể tạo hộ lịch cho người khác được bằng cách lựa chọn người chủ trì là người được tạo hộ trên biểu mẫu tạo lịch.</p>"
+        },
+        {
+            "title" : "Các phòng họp có sẵn trên danh sách là gì vậy?",
+            "content": "<p>Các phòng họp này sẽ bao gồm:</p><p>- Đây chính là tính năng họp nhanh của hệ thống hỗ trợ cho các lịch họp định kỳ, với các phòng họp trực tuyến cố định, có sẵn thông tin cuộc họp cho các nhóm lãnh đạo cố định, được cấu hình sẵn từ trước.</p><p>- Các phòng họp không phải cố định, là các phòng họp trực tuyến của các lịch họp đang diễn ra </p>"
+        },
+        {
+            "title" : "Có những cách nào để xem danh sách lịch họp?",
+            "content": "<p>Có 2 cách hiển thị là: </p><p>- <b>Cách 1:</b> Dạng liệt kê</p><p>- <b>Cách 2:</b> Dạng lưới lịch</p>",
+            "images": [
+                "hop1.jpg",
+                "hop2.jpg"
+            ]
+        },
+        {
+            "title" : "Tôi có thể xem chi tiết lịch họp bằng cách nào?",
+            "content": "<p><b>Bước 1:</b> Mở danh sách lịch </p><p><b>Bước 2:</b> Click vào lịch cần xem</p>",
+            "images": [
+                "hop3.jpg",
+                "hop4.jpg"
+            ]
+        },
+        {
+            "title" : "Có thể chỉnh sửa lịch được không?",
+            "content": "<p>Lịch chỉ có thể được chỉnh sửa bởi người tạo ra lịch đó. Các khách mời, người chủ trì... sẽ không có quyền chỉnh sửa lịch.</p><p><b>Chú ý: </b>Các thông tin cốt lõi của lịch họp như: thời gian họp, địa điểm chỉ có thể chỉnh sửa được khi lịch ở trạng thái nháp. Khi lịch đã được gửi duyệt cần thu hồi lại lịch mới có thể thay đổi.</p>"
+        },
+        {
+            "title" : "Thao tác chỉnh sửa lịch như nào?",
+            "content": "<p><b>Bước 1:</b> Mở xem chi tiết lịch</p><p><b>Bước 2:</b> Click vào button <b>Chỉnh sửa</b> tại màn chi tiết lịch</p><p><b>Bước 3:</b> Cập nhật lại thông tin cần thay đổi</p><p><b>Bước 4:</b> Click button <b>Lưu</b> để lưu lại</p>"
+        },
+        {
+            "title" : "Tôi có thể xem lịch họp của người khác được hay không?",
+            "content": "<p>Hệ thống hỗ trợ người dùng có thể xem được lịch họp của bản thân, các lịch công khai của đơn vị và lãnh đạo được hiển thị trên menu  theo phân quyền</p>"
+        },
+        {
+            "title" : "Làm các nào để tôi tìm kiếm lịch họp?",
+            "content": "<p><b>Bước 1:</b> Click vào biểu tượng tìm kiếm</p><p><b>Bước 2:</b> Nhập từ khóa tìm kiếm theo tiêu đề và nội dung của lịch làm việc</p><p><b>Bước 3:</b> Danh sách các lịch khớp với từ khóa sẽ được hiển thị phía dưới</p>",
+            "images": [
+                "hop5.jpg"
+            ]
+        },
+        {
+            "title" : "Thông tin về Duyệt lịch họp",
+            "content": "<p>- Lịch họp khi đăng ký sẽ phải được duyệt</p><p>- Chỉ những người dùng có quyền duyệt phòng mới duyệt được lịch</p><p>- Có 2 lựa chọn: </p><p>+ Từ chối duyệt</p><p>+ Xác nhận duyệt</p><p>- Có thể chọn từ danh sách phòng họp của đơn vị</p>"
+        },
+        {
+            "title" : "Tôi là người duyệt phòng, sau khi duyệt tôi muốn thu hồi lịch có được không?",
+            "content": "<p>Có thể thu hồi lại thao tác duyệt lịch để duyệt lại</p>"
+        },
+        {
+            "title" : "Tài liệu họp tôi có thể gửi lên bằng cách nào?",
+            "content": "<p><b>Bước 1:</b> Mở xem chi tiết lịch</p><p><b>Bước 2:</b> Click vào tab <b>Tài liệu họp</b> tại màn chi tiết lịch</p><p><b>Bước 3:</b> Click vào <b>Thêm mới</b></p><p><b>Bước 4:</b> Lựa chọn file cần tải lên. Tài liệu hỗ trợ gửi lên sẽ là các file tài liệu dạng văn bản, hình ảnh, video....</p>"
+        },
+        {
+            "title" : "Thông tin về Chương trình họp",
+            "content": "<p>- Người dùng tạo ra lịch sẽ được tạo và cập nhật chương trình họp cho lịch đó</p><p>- Có thể tạo nhiều phiên họp cho 1 lịch họp</p><p>- Thời gian mỗi phiên họp phải nằm trong khoảng thời gian họp</p><p>- Người chủ trì phiên họp có thể là bất cứ ai</p><p>- Sau khi Lưu phiên họp thì có thể Sửa, Xóa, Bắt đầu phiên họp</p><p>- Sau khi Bắt đầu phiên họp thì có thể Kết thúc phiên họp</p><p>- Có 3 trạng thái phiên họp: Chưa diễn ra, Đang diễn ra, Đã kết thúc (Phân loại theo màu)</p><p>- Người dùng chọn tự động cập nhật trạng thái phiên họp theo thời gian thì phiên họp được tự động bắt đầu/kết thúc khi tới giờ họp</p>"
+        },
+        {
+            "title" : "Khi nào thì tôi có thể gửi mời họp?",
+            "content": "<p>- Khi lịch họp đã được hoàn tất duyệt hoặc đang ở trạng thái đã mời họp mới có thể mời họp</p><p>- Người tạo ra lịch đó hoặc người dùng có quyền hệ thống</p><p>- Có thể gửi mời họp nhiều lần</p>"
+        },
+        {
+            "title" : "Tôi có thể mời họp những ai?",
+            "content": "<p>Có thể mời họp đơn vị hoặc cá nhân riêng biệt.</p>"
+        },
+        {
+            "title" : "Có bắt buộc phải nhập giấy mời và thành phần họp khi gửi mời họp không?",
+            "content": "<p>- Không yêu cầu bắt buộc phải gửi giấy mời và thành phần họp luôn lúc gửi mời.</p><p>- Sau khi gửi mời họp, người dùng vẫn có thể update Thông tin mời họp (tài liệu họp, giấy mời, thành phần tham dự)</p>"
+        },
+        {
+            "title" : "Tôi làm cách nào để xóa lịch?",
+            "content": "<p><p>Nếu tài khoản có quyền xóa lịch. Thực hiện xóa lịch theo các cách sau:</p><p><b>Cách 1:</b></p><p>Bước 1: Click vào icon xóa tại danh sách lịch</p><p><b>Bước 2:</b> Chọn đồng ý trên pop-up xác nhận xóa</p></p><p><p><b>Cách 2:</b> </p><p><b>Bước 1:</b> Mở chi tiết lịch</p><p><b>Bước 2:</b> Click vào button <b>Xóa</b> trên pop-up lịch</p><p><b>Bước 3:</b> Chọn đồng ý trên pop-up xác nhận xóa</p></p>",
+            "images": [
+                "hop6.jpg",
+                "hop7.jpg",
+                "hop8.jpg",
+                "hop9.jpg"
+            ]
+        },
+        {
+            "title" : "Làm cách nào để phản hồi lời mời họp từ đơn vị khác",
+            "content": "<p>Khi nhận được lời mời họp, hệ thống sẽ gửi thông báo cho bên đơn vị, cá nhân được mời và gửi lại thông báo cho người mời sau khi xác nhận phản hồi theo các bước sau:</p><p><b>Bước 1: </b> Click vào thông báo mời phối hợp</p><p><b>Bước 2: </b> Lựa chọn phản hồi mong muốn trên pop-up:</p><p>- Tham gia</p><p>- Không tham gia</p><p>- Cử người tham dự thay</p>"
+        },
+        {
+            "title" : "Tôi có thể cho ý kiến, hỏi đáp về cuộc họp được không?",
+            "content": "<p>Hệ thống hỗ trợ chức năng hỏi đáp bên tab: <b>Ý kiến, hỏi đáp</b> trong chi tiết của lịch họp:</p><p>- Tất cả người dùng có quyền xem lịch họp có thể nhập Ý kiến, hỏi đáp về lịch họp</p><p>- Người dùng có thể chọn Ý kiến, hỏi đáp về 1 phiên họp cụ thể, hoặc chung cho cả lịch họp</p><p>- Tất cả người dùng có quyền xem lịch họp có thể trả lời Câu hỏi</p><p>- Câu hỏi được tạo liên quan đến từng phiên họp sẽ được thống kê và list tại danh sách chương trình họp</p>"
+        },
+        {
+            "title" : "Tôi muốn xóa câu hỏi, ý kiến của mình đi thì làm như nào?",
+            "content": "<p>- Câu hỏi không được phép chỉnh sửa hoặc xóa sau khi gửi đi. </p><p>- Câu trả lời không được phép sửa</p><p>- Người dùng chỉ có thể Xóa câu trả lời sau khi gửi</p>"
+        },
+        {
+            "title" : "Tôi có thể hủy lịch họp được không? Khi tôi hủy có thông báo gì không?",
+            "content": "<p>Hệ thống cho phép người sử dụng hủy lịch ngay tại màn hình danh sách lịch</p><p>Đối tượng được hủy lịch: cá nhân tự tạo lịch, người được tạo hộ lịch</p><p>Sau khi lịch bị hủy, hệ thống gửi thông báo cho các đơn vị phối hợp và thành phần phối hợp</p>"
+        },
+        {
+            "title" : "Có cách nào để tôi có thể tham gia vào phòng họp trực tuyến?",
+            "content": "<p>Sẽ có 3 cách để tham gia họp trực tuyến:</p><p><b>- Cách 1:</b> Click vào phòng họp trực tuyến được hiển thị trên danh sách menu</p><p><b>- Cách 2:</b> Click vào button <b>Họp trực tuyến</b> trên cột Loại lịch</p><p><b>- Cách 3:</b> Click vào đường dẫn có sẵn trong chi tiết lịch họp</p>",
+            "images": [
+                "hop10.jpg",
+                "hop11.jpg",
+                "hop12.jpg"
+            ]
+        },
+        {
+            "title" : "Mọi người có thể xem được lựa chọn của tôi khi biểu quyết hay không?",
+            "content": "<p>Hệ thống hỗ trợ tạo 2 loại biểu quyết:</p><p>- Biểu quyết công khai </p><p>Đối với loại biểu quyết này, sẽ công khai danh tính người biểu quyết. Mọi người đều có thể xem danh sách người đã biểu quyết</p><p>- Biểu quyết kín</p><p>Không công khai danh tính người biểu quyết. Với biểu quyết kín, người dùng không cần phải đăng nhập hệ thống vẫn có thể biểu quyết, dưới dạng anonymous. Không ai xem được danh sách người đã biểu quyết</p><p>Vì vậy việc xem được thông tin người biểu quyết hay không sẽ phụ thuộc vào loại biểu quyết mà người tạo lịch thiết lập</p>"
+        },
+        {
+            "title" : "Có phải ai cũng có quyền biểu quyết trong cuộc họp?",
+            "content": "<p>Quyền biểu quyết sẽ gồm:</p><p>- Tất cả mọi người: Ai tham gia họp thì đều có quyền biểu quyết</p><p>- Chỉ những người được chỉ định: Bảng biểu quyết sẽ chỉ hiện với những người có trong danh sách người tạo biểu quyết thiết lập</p>"
+        },
+        {
+            "title" : "Tôi muốn sửa thông tin biểu quyết có được không?",
+            "content": "<p>Biểu quyết có các trạng thái sau:</p><p>- Biểu quyết chưa mở: Có thể: sửa, xóa, bắt dầu</p><p>- Biểu quyết đang diễn ra: Có thể xóa, kết thúc</p><p>- Biểu quyết đã kết thúc: Chỉ có thể xóa</p><p>Người tạo tạo ra biểu quyết và người chủ trì cuộc họp mới có quyền thao tác.</p><p>Để sửa thông tin biểu quyết, phải đáp ứng các điều kiện theo trạng thái và quyền hạn</p>"
+        },
+        {
+            "title" : "Kết luận họp",
+            "content": "<p>- Hệ thống tự động gửi các biên bản họp tới tất cả thành viên dự họp sau khi họp</p><p>- Hệ thống hỗ trợ gửi biên bản họp đến tất cả thành viên tham gia</p><p>- Đồng thời hỗ trợ kết nối Quản lý văn bản để tạo Văn bản đi</p><p>- Nếu lịch họp có link tới session họp trên Hệ thống bóc băng thì user có thể Cập nhật dữ liệu bóc băng về lịch họp.</p>"
+        },
+        {
+            "title" : "Tài liệu của tôi là gì?",
+            "content": "<p>Hệ thống sẽ thống kê và hiển thị tất cả các tài liệu liên quan đến cuộc họp mà cá nhân tham gia có quyền theo dõi</p>"
+        },
+        {
+            "title" : "Hệ thống bóc băng",
+            "content": "<p>Áp dụng các công nghệ chuyển đổi giọng nói thành văn bản, hệ thống hỗ trợ tạo ra file văn bản từ các cuộc hội thoại trong cuộc họp</p><p>Quy trình thực hiện 1 phiên họp trên hệ thống bóc băng</p><p>Bước 1: Người dùng thực hiện tạo phiên họp trên giao diện hệ thống bóc băng</p><p>Bước 2: Người dùng thực hiện ghi âm phiên họp trên phiên họp vừa tạo. Thực hiện việc edit những từ sai khi hệ thống nhận dạng ra biên bản và cập nhật thông tin nhận dạng người nói khi hệ thống không nhận dạng được người nói.</p><p>Bước 3: Kết thúc cuộc họp, người dùng tổng hợp nội dung, biên tập, sửa những lỗi sai, và tổng hợp thành biên bản tổng hợp cuối cùng.</p><p>Bước 4: Download biên bản tổng hợp và trình lãnh đạo.</p>"
+        }
+    ],
+    "qlnv": [
+        {
+            "title" : "Các tính năng chính",
+            "content": "<p>- Tổng quan các nhiệm vụ nhận và trạng thái xử lý</p><p>1. Nhiệm vụ của UBND tỉnh giao</p><p>2. Nhiệm vụ của Lãnh đạo Sở giao</p><p>3. Nhiệm vụ của Lãnh đạo Phòng/Ban giao</p><p>4. Hỗ trợ quản lý nhiệm vụ khác theo đặc thù của đơn vị triển khai</p><p>- Tích họp hệ thống báo cáo PowerBI</p><p>- Liên thông với hệ thống xử lý nhiệm vụ</p>",
+            "images": [
+                "qlnv1.png"
+            ]
+        },
+        {
+            "title" : "Các tiêu chí để lọc danh sách nhiệm vụ",
+            "content": "<p>Lọc danh sách nhiệm vụ theo đơn vị/cá nhân </p><p>Lọc danh sách nhiệm vụ theo mức độ</p><p>Lọc danh sách nhiệm vụ theo đơn vị thực hiện</p><p>Lọc danh sách nhiệm vụ theo loại nhiệm vụ</p>"
+        }
+    ],
+    "hcc" : [
+        {
+            "title" : "Các tính năng chính",
+            "content": "<p>Tổng quan số lượng phân bổ hồ sơ, trạng thái xử lý, đánh giá theo:</p><p>- Sở ban ngành</p><p>- Địa phương</p><p>- Lĩnh vực</p>",
+            "images": [
+                "hcc1.png"
+            ]
+        }
+    ],
+    "qlvb": [
+        {
+            "title" : "Làm thế nào để xem tổng quát báo cáo tình hình văn bản đến và đi?",
+            "content": "<p>Vào hợp phần Quản lý văn bản, hệ thống hiển thị các báo cáo tổng quan tình hình xử lý, cơ quan gửi văn bản đến, đi.</p>",
+            "images": [
+                "qlvb1.png"
+            ]
+        },
+        {
+            "title" : "Làm thế nào để xem tổng quát báo cáo tình hình văn bản đến?",
+            "content": "<p>Vào văn bản đến sau đó bấm vào tổng quan.</p>",
+            "images": [
+                "qlvb2.png"
+            ]
+        },
+        {
+            "title" : "Làm thế nào để xem tổng quát báo cáo tình hình văn bản đi?",
+            "content": "<p>Vào văn bản đi sau đó bấm vào tổng quan.</p>"
+        },
+        {
+            "title" : "Tôi có thể xem văn bản đến theo trạng thái bằng cách nào?",
+            "content": "<p>Tại văn bản đến, bấm vào các văn bản theo trang thái, hệ thống hiển thị văn bản với trạng thái vừa bấm.</p>"
+        },
+        {
+            "title" : "Tôi có thể xem văn bản đi theo trạng thái bằng cách nào?",
+            "content": "<p>Tại văn bản đi, bấm vào các văn bản theo trang thái, hệ thống hiển thị văn bản với trạng thái vừa bấm.</p>"
+        },
+        {
+            "title" : "Làm cách nào để xem chi tiết một văn bản?",
+            "content": "<p>Tại văn bản muốn xem chi tiết, bấm vào văn bản.</p>",
+            "images": [
+                "qlvb3.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể xem thống kê văn bản xử lý chậm theo đơn vị bằng cách nào?",
+            "content": "<p>Thống kê văn bản xử lý chậm được hiển thị ở bên phải màn hình của phần tổng quan văn bản.</p>"
+        }
+    ],
+    "bcmxh": [
+        {
+            "title" : "Làm cách nào để tôi có thể xem tin tức trên báo chí và mạng xã hội?",
+            "content": "<p>Tại menu trái bấm hợp phần Báo chí và mạng xã hội </p>",
+            "images": [
+                "bcmxh1.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể lọc bài viết theo thời gian bằng cách nào?",
+            "content": "<p>Hệ thống cho phép người dùng lọc bài viết dựa theo thời gian hôm nay, hôm qua, 7 ngày trước, 30 ngày trước.</p>"
+        },
+        {
+            "title" : "Tôi có thể xem báo cáo thống kê số bài viết và số lượt tương tác bài viết ở đâu?",
+            "content": "<p>Báo cáo thống kê được hiển thị ở bên phải màn hình.</p>"
+        },
+        {
+            "title" : "Tôi làm thế nào để xem chi tiết một bài viết?",
+            "content": "<p>Tại một bài viết bấm vào Xem chi tiết, hệ thống sẽ hiển thị thông tin chi tiết bài viết.</p>"
+        },
+        {
+            "title" : "Tôi làm thế nào để xem các bài viết có cùng chuyên mục?",
+            "content": "<p>Tại một bài viết bấm vào Tin tương tự, hệ thống sẽ hiển thị các bài viết có cùng chuyên mục.</p>"
+        },
+        {
+            "title" : "Làm thế nào để xem trang tin nguồn của bài viết?",
+            "content": "<p>Tại bài viết bấm tên trang web đăng bài. </p>"
+        }
+    ],
+    "cctv" : [
+        {
+            "title" : "Tôi có thể xem báo cáo tổng quan các lĩnh vực bằng cách nào?",
+            "content": "<p>Vào màn hình CCTV và bấm nút Tổng quan.</p>",
+            "images": [
+                "cctv1.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể lọc báo cáo thống kê bằng cách nào?",
+            "content": "<p>Nhập các tiêu chí lọc trên thành tìm kiếm, biểu đồ sẽ thay đổi theo các tiêu chí tìm kiếm đã nhập.</p>"
+        },
+        {
+            "title" : "Làm sao để tôi xem báo cáo thống kê theo từng lĩnh vực cụ thể?",
+            "content": "<p>Vào màn hình CCTV và chọn Báo cáo thống kê theo lĩnh vực cụ thể.</p>"
+        },
+        {
+            "title" : "Làm thế nào để tôi xem chi tiết dữ liệu trên báo cáo?",
+            "content": "<p>Thực hiện trỏ chuột lên biểu đồ, biểu đồ sẽ hiển thị thông tin chi tiết dữ liệu.</p>",
+            "images": [
+                "cctv2.png"
+            ]
+        },
+        {
+            "title" : "Tôi xem bản đồ camera bằng cách nào?",
+            "content": "<p>Vào màn hình CCTV và bấm CCTV/ Bản đồ camera. Hệ thống sẽ hiển thị bản đồ và số lượng, vị trí camera trên bản đồ.</p>",
+            "images": [
+                "cctv3.png"
+            ]
+        },
+        {
+            "title" : "Làm cách nào để tôi xem các sự kiện khẩn cấp?",
+            "content": "<p>Bước 1: Vào màn hình CCTV.</p><p>Bước 2: Bấm Bản đồ camera.</p><p>Bước 3: Bấm vào một màn hình cụ thể.</p><p>Hệ thống hiển thị các sự kiện khẩn cấp theo địa điểm trên bản đồ.</p>",
+            "images": [
+                "cctv4.png"
+            ]
+        },
+        {
+            "title" : "Làm cách nào để tôi xem tổng số camera ở một đia điểm trên bản đồ?",
+            "content": "<p>Bước 1: Vào màn hình CCTV.</p><p>Bước 2: Bấm Bản đồ camera.</p><p>Bước 3: Bấm vào một màn hình cụ thể.</p><p>Hệ thống hiển thị tổng số camera thuộc địa điểm trên bản đồ</p>",
+            "images": [
+                "cctv4.png"
+            ]
+        },
+        {
+            "title" : "Làm cách nào để tôi xem các sự kiện khẩn cấp?",
+            "content": "<p>Bước 1: Vào màn hình CCTV.</p><p>Bước 2: Bấm Bản đồ camera.</p><p>Bước 3: Bấm vào một màn hình cụ thể.</p><p>Hệ thống hiển thị các sự kiện khẩn cấp theo địa điểm trên bản đồ.</p>",
+            "images": [
+                "cctv5.png"
+            ]
+        },
+        {
+            "title" : "Làm thế nào để lọc camera theo địa điểm?",
+            "content": "<p>Bước 1: Vào màn hình CCTV.</p><p>Bước 2: Bấm Bản đồ camera.</p><p>Bước 3: Bấm vào một màn hình cụ thể.</p><p>Bước 4: Chọn Quận/huyện, phường/xã, đơn vị.</p><p>Hệ thống hiển thị dữ liệu camera được lọc theo thông tin đã chọn.</p>"
+        },
+        {
+            "title" : "Làm thế nào để xem video một camera cụ thể?",
+            "content": "<p>Bước 1: Vào màn hình CCTV.</p><p>Bước 2: Bấm Bản đồ camera.</p><p>Bước 3: Bấm vào một màn hình cụ thể.</p><p>Bước 4: Chọn một camera cụ thể.</p><p>Hệ thống hiển thị video camera đang phát.</p>"
+        }
+    ],
+    "ttnb": [
+        {
+            "title" : "Tôi có thể tương tác với người dùng cá nhân bằng cách nào?",
+            "content": "<p>Bước 1: Chọn người muốn tương tác hoặc bấm vào biểu tượng tìm kiếm và nhập tên người dùng.</p><p>Bước 2: Nhập tin nhắn.</p><p>Bước 3: Bấm Enter/Gửi.</p>",
+            "images": [
+                "ttnb1.png"
+            ]
+        },
+        {
+            "title" : "Làm thế nào để tạo nhóm chat?",
+            "content": "<p>Bước 1: Bấm biểu tượng Tạo mới nhóm.</p><p>Bước 2: Nhập thông tin nhóm.</p><p>Bước 3: Bấm nút Tạo nhóm.</p>"
+        },
+        {
+            "title" : "Tôi có thể tương tác với nhóm chat bằng cách nào?",
+            "content": "<p>Bước 1: Bấm vào chatbot.</p><p>Bước 2: Nhập tin nhắn.</p><p>Bước 3: Bấm Enter/Gửi.</p><p>Chatbot phản hồi lại tin nhắn theo nội dung đã nhập từ trước</p>"
+        },
+        {
+            "title" : "Làm thế nào để xóa tin nhắn?",
+            "content": "<p>Bước 1: Tìm kiếm tin nhắn muốn xóa. </p><p>Bước 2: Bấm vào biểu tượng Mở rộng.</p><p>Bước 3: Bấm Xóa tin nhắn.</p>"
+        },
+        {
+            "title" : "Tôi muốn gửi tài liệu tới người dùng/ nhóm chat thì làm thế nào?",
+            "content": "<p>Tại thanh nhập tin nhắn bấm biểu tượng Thêm sau đó chọn tài liệu từ trên máy tính/điện thoại.</p>"
+        },
+        {
+            "title" : "Làm thế nào để trả lời một tin nhắn cụ thể?",
+            "content": "<p>Bước 1: Tìm kiếm tin nhắn muốn trả lời. </p><p>Bước 2: Bấm vào biểu tượng Mở rộng.</p><p>Bước 3: Bấm Trả lời tin nhắn.</p><p>Bước 4: Thực hiện nhập tin nhắn trả lời .</p>"
+        },
+        {
+            "title" : "Làm thế nào ghim một tin nhắn cụ thể?",
+            "content": "<p>Bước 1: Tìm kiếm tin nhắn muốn ghim. </p><p>Bước 2: Bấm vào biểu tượng Mở rộng tại màn hình cá nhân/ nhóm.</p><p>Bước 3: Bấm Ghim tin nhắn.</p>"
+        },
+        {
+            "title" : "Làm thế nào để tắt thông báo đoạn hội thoại?",
+            "content": "<p>Bước 1: Bấm vào biểu tượng Mở rộng tại màn hình tương tác cá nhân/ nhóm.</p><p>Bước 3: Bấm biểu tượng Thông báo.</p><p>Bước 4: Bấm nút tắt Thông báo.</p>"
+        },
+        {
+            "title" : "Làm thế nào để nhắc tới một người cụ thể trong đoạn hội thoại nhóm?",
+            "content": "<p>Trong đoạn hội thoại nhóm nhập @ + tên người muốn nhắc tới.</p>"
+        }
+    ],
+    "tienich" : [
+        {
+            "title" : "Tôi có thể chuyển giọng nói thành văn bản bằng cách nào?",
+            "content": "<p>Thực hiện click vào biểu tượng để thu âm giọng nói, hệ thống sẽ tự động chuyển giọng nói thành văn bản. Văn bản sau khi chuyển đổi cho phép người dùng chỉnh sửa, sao chép.</p>",
+            "images": [
+                "tienich1.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể chuyển văn bản thành giọng nói bằng cách nào?",
+            "content": "<p>Bước 1: Bấm vào nút Chuyển văn bản thành giọng nói.</p><p>Bước 2: Nhập đoạn văn hoặc tải văn bản muốn chuyển đổi lên.</p><p>Bước 3: Chọn loại giọng nói và chất lượng giọng (mặc định giọng nữ miền bắc và chất lượng giọng 128kbps).</p><p>Bước 4: Bấm vào nút Đọc ngay.</p><p>Hệ thống thực hiện đọc đoạn văn bản với loại giọng và chất lượng giọng đã chọn.</p>",
+            "images": [
+                "tienich2.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể dịch đoạn văn nước ngoài về ngôn ngữ Việt Nam bằng cách nào?",
+            "content": "<p>Bước 1: Bấm vào nút Phiên dịch tự động.</p><p>Bước 2: Chọn loại ngôn ngữ nhập vào hoặc để mặc định Phát hiện ngôn ngữ.</p><p>Bước 3: Nhập đoạn văn muốn phiên dịch sang tiếng Việt</p><p>Hệ thống thực hiện phiên dịch đoạn văn bản sang tiếng Việt.</p>",
+            "images": [
+                "tienich3.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể dịch văn bản nước ngoài về ngôn ngữ Việt Nam bằng cách nào?",
+            "content": "<p>Bước 1: Bấm vào nút Phiên dịch tự động.</p><p>Bước 2: Chọn ô Tài liệu.</p><p>Bước 3: Tải tài liệu lên.</p><p>Bước 4: Chọn ngôn ngữ muốn phiên dịch tới là Việt nam.</p><p>Bước 5: Bấm nút dịch.</p><p>Hệ thống thực hiện phiên dịch tài liệu sang tiếng Việt.</p>"
+        },
+        {
+            "title" : "Làm cách nào để tôi có thể dịch đoạn văn tiếng Việt sang ngôn ngữ nước ngoài?",
+            "content": "<p>Bước 1: Bấm vào nút Phiên dịch tự động.</p><p>Bước 2: Chọn ngôn ngữ Việt Nam là ngôn ngữ phiên dịch.</p><p>Bước 3: Chọn ngôn ngữ muốn phiên dịch tới.</p><p>Bước 4: Nhập đoạn văn phiên dịch.</p><p>Hệ thống thực hiện phiên dịch đoạn văn bản từ tiếng Việt sang ngôn ngữ khác.</p>"
+        },
+        {
+            "title" : "Tôi xem lại lịch sử phiên dịch ở đâu?",
+            "content": "<p>Bấm vào nút Phiên dịch tự động sau đó bấm vào biểu tượng Lịch sử.</p>"
+        },
+        {
+            "title" : "Làm cách nào để xem lại các từ phiên dịch đã lưu?",
+            "content": "<p>Bấm vào nút Phiên dịch tự động sau đó bấm vào biểu tượng Đã lưu.</p>"
+        }
+    ],
+    "dbdt" : [
+        {
+            "title" : "Làm sao để tôi có thể tìm kiếm một đơn vị?",
+            "content": "<p>Tại cơ cấu đơn vị góc trái, thực hiện chọn đơn vị hoặc nhập tên đơn vị trên thanh tìm kiếm và tiến hành chọn.</p>",
+            "images": [
+                "dbdt1.png"
+            ]
+        },
+        {
+            "title" : "Tôi có thể xem danh sách nhân sự theo đơn vị bằng cách nào?",
+            "content": "<p>Thực hiện chọn đơn vị, hệ thống sẽ hiển thị danh sách cán bộ theo đơn vị đã chọn.</p>"
+        },
+        {
+            "title" : "Làm sao để tôi có thể tìm kiếm một cá nhân?",
+            "content": "<p>Người dùng tìm kiếm cá nhân tại danh sách cán bộ hoặc thực hiện nhập tên cán bộ trên thanh tìm kiếm danh bạ.</p>"
+        }
+    ],
+    "yknd": [
+        {
+            "title" : "Làm thế nào để xem tổng quát tình hình xử lý ý kiến người dân?",
+            "content": "<p>Vào hợp phần Ý kiến người dân, hệ thống hiển thị báo cáo thống kê tổng quan ý kiến cần xử lý, so sánh tình trạng xử lý theo lĩnh vực, địa phương.</p>"
+        },
+        {
+            "title" : "Làm thế nào để xem ý kiến người dân theo cơ quan xử lý?",
+            "content": "<p>Tại phần cơ quan xử lý, chọn cơ quan xử lý: VP UBND tỉnh, Sở - ban - ngành, Địa phương.</p>"
+        },
+        {
+            "title" : "Làm thế nào để xem tình trạng xử lý ý kiến người dân?",
+            "content": "<p>Tại phần cơ quan xử lý, chọn tình trạng xử lý: Chờ xử lý, Đang xử lý, Đã xử lý, Quá hạn xử lý.</p>"
+        },
+        {
+            "title" : "Tôi có thể vào phần mềm ý kiến người dân bằng cách nào?",
+            "content": "<p>Tại màn hình Ý kiến người dân bấm nút Ý kiến người dân.</p>"
+        },
+        {
+            "title" : "Tôi có thể xem thống kê hồ sơ chưa xử lý theo đơn vị ở đâu?",
+            "content": "<p>Thống kê hồ sơ chưa xử lý theo đơn vị hiển thị ở góc phải phía trên của các báo cáo theo cơ quan xử lý và tình trạng xử lý.</p>"
+        }
+    ],
+    "ketnoi": [
+        {
+            "title" : "Tính năng chính của kết nối",
+            "content": "<p>Hỗ trợ kết nối nhanh với các sự kiện chung, được mời, các đơn vị, tổ chức:</p><p>- Tạo sự kiện</p><p>- Mời đơn vị, cá nhân tham gia sự kiện</p><p>- Kết nối nhanh qua kênh trực tuyến bằng video call</p>",
+            "images": [
+                "ketnoi1.jpg"
+            ]
+        }
+    ]
+    
+}

@@ -1,0 +1,499 @@
+{
+  "VPUBNDTINH": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 10,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 20,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 30,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 40,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 25,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 12,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Long Khánh, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "10/03/2021",
+          "NGAYXULY": "12/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Phú Hữu, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "07/03/2021",
+          "NGAYXULY": "13/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Long Khánh, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "22/04/2021",
+          "NGAYXULY": "17/06/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        }
+      ]
+    }
+  },
+  "SOBANNGANH": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 20,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 5,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 50,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 25,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 35,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 55,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 10,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 50,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 78,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Phú Hữu, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "03/05/2021",
+          "NGAYXULY": "11/05/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        }
+      ]
+    }
+  },
+  "DIAPHUONG": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 20,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 10,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 20,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 50,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 54,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 24,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Long Khánh, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "18/05/2021",
+          "NGAYXULY": "01/06/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        }
+      ]
+    }
+  },
+  "CHOXULY": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 5,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 60,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 10,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 25,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 11,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 32,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Phú Hữu, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "12/03/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Long Khánh, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "11/06/2021",
+          "TRANGTHAI": "Chờ xử lý"
+        }
+      ]
+    }
+  },
+  "DANGXULY": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 10,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 10,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 30,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 50,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 54,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 24,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Phú Hữu, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "15/04/2021",
+          "NGAYXULY": "16/06/2021",
+          "TRANGTHAI": "Đang xử lý"
+        }
+      ]
+    }
+  },
+  "DAXULY": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 60,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 30,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 5,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 5,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 12,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 56,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Long Khánh. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "13/03/2021",
+          "NGAYXULY": "22/03/2021",
+          "TRANGTHAI": "Đã xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Phú Hữu, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "05/03/2021",
+          "NGAYXULY": "02/04/2021",
+          "TRANGTHAI": "Đã xử lý"
+        },
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại Thành phố Long Khánh, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "08/02/2021",
+          "NGAYXULY": "07/03/2021",
+          "TRANGTHAI": "Đã xử lý"
+        }
+      ]
+    }
+  },
+  "QUAHANXULY": {
+    "progress": 100,
+    "dataProgress": [
+      {
+        "value": 45,
+        "color": "#FFC206",
+        "status": "Chờ vào sổ"
+      },
+      {
+        "value": 20,
+        "color": "#FF4D01",
+        "status": "Chờ xử lý"
+      },
+      {
+        "value": 20,
+        "color": "#5396FF",
+        "status": "Chờ phân xử lý"
+      },
+      {
+        "value": 15,
+        "color": "#66D8FF",
+        "status": "Đang xử lý"
+      }
+    ],
+    "dataStatus": [
+      {
+        "name": "Trong hạn",
+        "value": 50,
+        "color": "#991EF9"
+      },
+      {
+        "name": "Đến hạn",
+        "value": 20,
+        "color": "#06c270"
+      },
+      {
+        "name": "Quá hạn",
+        "value": 30,
+        "color": "#ff2929"
+      }
+    ],
+    "dataHoSo": [
+      {
+        "name": "Sở Tài chính",
+        "value": 77,
+        "max": 100
+      },
+      {
+        "name": "Sở Kế hoạch và Đầu tư",
+        "value": 53,
+        "max": 100
+      }
+    ],
+    "dataTable": {
+      "fields": [],
+      "items": [
+        {
+          "NOIDUNGPHANANH": "Tôi muốn mua đất tại xã Phú Hữu, số tờ bản đồ là 30, thửa 420. Tôi muốn nhờ coi dùm khu đất này có bị quy hoạch gì hay không",
+          "COQUANXULY": "Sở Tài nguyên và Môi trường",
+          "NGAYTIEPNHAN": "05/02/2021",
+          "NGAYXULY": "14/04/2021",
+          "TRANGTHAI": "Quá hạn xử lý"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,238 @@
+Như vậy có thể hiểu đơn giản lập trình bất đồng bộ (Asynchronous) là khả năng thực thi các tác vụ độc lập nhau, 
+có nghĩa là chúng không nhất thiết phải chạy một cách tuần tự (có thể chạy song song với nhau) 
+hoặc xử lý này không phải đợi xử lý khác giúp cho việc cải thiện hiệu suất hoạt động của ứng dụng.
+
+
+axios (url [, config]): kiểu ngắn hơn
+
+
+đầy đủ
+axios({
+  method: 'get',
+  url: 'http://bit.ly/2mTM3nY',
+  responseType: 'stream'
+})
+  .then(function (response) {
+    response.data.pipe(fs.createWriteStream('ada_lovelace.jpg'))
+  });
+
+
+
+------------------------------------------------------
+Axios: axios.get('http://demo.com/user?ID=12345')
+  .then(function (response) {
+    console.log(response);
+  })
+  .catch(function (error) {
+    console.log(error);
+  });
+Đoạn mã này gửi một request với phương thức GET đến URL http://demo.com/user?ID=12345,
+ nếu thành công kết quả sẽ được in ra console trong .then() và nếu lỗi thì in lỗi ra console trong .catch(). 
+Bạn có thể tưởng tượng nó giống như việc bạn mở trình duyệt ra, gõ vào đường dẫn cần đến và chờ, 
+nếu thông tin được hiển thị bạn sẽ đọc được, nếu không một thông báo lỗi hiển thị lên trên trình duyệt. 
+Chú ý, tham số truyền vào (query string) có thể đưa vào phần tham số như sau:
+
+axios.get('http://demo.com/user', {
+
+
+
+
+
+
+
+
+
+Hooks Vuejs: 
+
+before Cretea là gì: 
+
+
+
+
+Created là gì: 
+
+Công dụng: Làm việc với API và lấy data về.
+
+
+Mouted : khi instance được render ra.
+mounted sử dụng để init library, setup cho component
+
+
+
+
+beforeUpdate sẽ chạy khi data vừa thay đổi và trước khi render lại trên DOM.
+
+updated sẽ chạy khi đã render xong ở DOM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tạo một data và muốn thay đổi data thực sự trong methods: 
+Ví dụ:
+<div id="app-5">
+  <p>{{ message }}</p>
+  <button v-on:click="reverseMessage">Reverse Message</button>
+</div>
+
+
+
+var app5 = new Vue({
+  el: '#app-5',
+  data: {
+    message: 'qua lại khách chờ sông lặng sóng' (định nghĩa data)
+  },
+
+
+  methods: {
+    reverseMessage: function () {
+      this.message = this.message.split(' ').reverse().join(' ') (thực hiện nhiệm vụ)
+    }
+  }
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MVVM giống với MVC 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Đăng ký Directive toàn cục
+
+// Đăng kí một directive tùy biến cấp toàn cục với tên là `v-focus`
+Sử dụng: Vue.directive: // Đăng kí một directive tùy biến cấp toàn cục với tên là `v-focus`
+Vue.directive('focus', {
+  // Khi phần tử liên quan được thêm vào DOM...
+  inserted: function (el) {
+    // Ta gán focus vào phần tử đó
+    el.focus()
+  }
+})
+
+
+Nếu muốn đăng kí directive ở cấp cục bộ thay vì toàn cục, bạn có thể dùng tùy chọn 
+directives khi khai báo component:
+directives: {
+  focus: {
+    // định nghĩa cho directive
+    inserted: function (el) {
+      el.focus()
+    }
+  }
+}
+//có thể dùng thuộc tính v-focus trên bất kì phần tử nào, như sau:
+
+Ví dụ: <input v-focus>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tạo Json serve:
+B1: npm init tạo jile json.pack
+B2: npm i -g json-server
+
+Bỏ -g nếu không muốn cài vào máy và chỉ muốn cài vào projects
+B3: Tạo file json ví dụ: db.json
+
+B4: Vào file package.json : Phần scipts: "starts": "json-serve --watch db.json"(đây là tên file sẽ đã tạo"
+
+B5: npm start
+
+
+
+
+
+
+
+

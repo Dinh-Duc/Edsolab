@@ -1,0 +1,198 @@
+[
+    {
+        "id": "152",
+        "type": "FOLDER",
+        "name": "Báo cáo điều hành",
+        "report_pbi_url": "",
+        "child" : [
+            {
+                "id": "1028",
+                "type": "REPORT",
+                "name": "Quản lý văn bản",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiZjIxYjFjNGYtZTBkMy00YWYyLThhYzYtOWZkNTBlNTZlZWViIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D&pageName=ReportSection86de30f63abab97d89ca"
+                },
+                {
+                "id": "1029",
+                "type": "REPORT",
+                "name": "Quản lý nhiệm vụ",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiYWJiNDFhYWUtNmQ4OC00ZTk4LTk0NjItMTk4MWIzODk2N2VkIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+                },
+                {
+                "id": "1031",
+                "type": "REPORT",
+                "name": "Thủ tục hành chính",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiYTE5MTBmMzgtOTQ3YS00OGEzLTg5YjktMDNmNjFlYjNmMTBjIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+                },
+                {
+                "id": "1032",
+                "type": "REPORT",
+                "name": "Thống kê lịch họp",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiM2YwZGRhODUtNDVhOC00NzQwLWIzNDYtZWM5ZDkxNzE5ZjJlIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+                }
+        ]
+    },
+    {
+        "id": "153",
+        "type": "FOLDER",
+        "name": "Báo cáo chỉ tiêu Kinh tế - Xã hội",
+        "report_pbi_url": "",
+        "child" : [
+            {
+                "id": "1023",
+                "type": "REPORT",
+                "name": "Báo cáo các chỉ tiêu kinh tế",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiZGE0NDE0MTktMDA1ZC00YWVmLTg1ZGMtZTAzNTlkN2I2ZjU5IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+            },
+            {
+                "id": "1024",
+                "type": "REPORT",
+                "name": "Báo cáo các chỉ tiêu văn hóa - xã hội",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiOTQ2MTVlYTAtODJjYS00NWFmLTlmYjQtNzk0ZDlkNjhmMDM1IiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+            },
+            {
+                "id": "1025",
+                "type": "REPORT",
+                "name": "Báo cáo các chỉ tiêu môi trường",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiNzJiM2VmMWQtMWQ0My00NjMyLWFmODItMTc5Nzc5NWEzYTRlIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+            },
+            {
+                "id": "1026",
+                "type": "REPORT",
+                "name": "Báo cáo các chỉ tiêu quốc phòng - an ninh",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiOGYyYTBlN2EtOGFlNS00Y2Q5LTgxYTEtMmRkNTBjNTBiZjhjIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+            }
+        ]
+    },
+    
+    {
+        "id": "169",
+        "type": "FOLDER",
+        "name": "Sở Công thương",
+        "report_pbi_url": "",
+        "child" : [
+            {
+                "id": "1079",
+                "type": "REPORT",
+                "name": "Báo cáo tổng mức bản lẻ và dịch vụ",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiNWM1ZmMzNWMtNTc0Ni00MmZhLThhOTMtMGU0MDlmNTdiOWFhIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+                },
+                {
+                "id": "1080",
+                "type": "REPORT",
+                "name": "Báo cáo kim ngạch xuất khẩu",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiMDAyZDJhYjYtMzgxNi00ZDQzLWIyZDktNmJlYmQ3NWFhOGIyIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+                },
+                {
+                "id": "1084",
+                "type": "REPORT",
+                "name": "Báo cáo tình hình sản xuất công nghiệp",
+                "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiYTMwYThkZGMtODU4My00YmJkLWE3NzgtMWVmYTA1NDRlOTUwIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+                }
+        ]
+    },
+    {
+        "id": "173",
+        "type": "FOLDER",
+        "name": "Sở Giáo dục và Đào tạo",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "172",
+        "type": "FOLDER",
+        "name": "Sở Giao thông vận tải",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "166",
+        "type": "FOLDER",
+        "name": "Sở Kế hoạch và Đầu tư",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "168",
+        "type": "FOLDER",
+        "name": "Sở Khoa học và Công nghệ",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "176",
+        "type": "FOLDER",
+        "name": "Sở Lao động - Thương binh và Xã hội",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "171",
+        "type": "FOLDER",
+        "name": "Sở Nông nghiệp và Phát triển nông thôn",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "167",
+        "type": "FOLDER",
+        "name": "Sở Tài chính",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "170",
+        "type": "FOLDER",
+        "name": "Sở Tài nguyên và Môi trường",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "177",
+        "type": "FOLDER",
+        "name": "Sở Văn hóa, Thể thao và Du lịch",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "175",
+        "type": "FOLDER",
+        "name": "Sở Xây dựng",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "174",
+        "type": "FOLDER",
+        "name": "Sở Y tế",
+        "report_pbi_url": "",
+        "child" : [
+
+        ]
+    },
+    {
+        "id": "1043",
+        "type": "REPORT",
+        "name": "Báo cáo tình hình đăng ký doanh nghiệp và hộ kinh doanh",
+        "report_pbi_url": "https://app.powerbi.com/view?r=eyJrIjoiNjE1NDJiNzAtODg1Mi00NjA4LWI0ODQtZGUwZWM5YjU3M2EyIiwidCI6IjY4ZTQxNzUxLTgwZDMtNDE4My1hZjdiLWE1YzQyMTJiZGZlNSIsImMiOjEwfQ%3D%3D"
+    }
+]

@@ -1,0 +1,2070 @@
+[
+  {
+    "key": "TONGQUAN",
+    "title": "Tổng quan",
+    "icon_class": "",
+    "icon_svg": "",
+    "data": {},
+    "total": 250,
+    "show_total": true,
+    "childs": []
+  },
+  {
+    "key": "NHIEMVUCUATOI",
+    "title": "Nhiệm vụ của tôi",
+    "icon_class": "",
+    "icon_svg": "",
+    "data": {
+      "box_progress": {
+        "title": "Nhiệm vụ",
+        "progress": [
+          {
+            "key": "CHUATHUCHIEN",
+            "title": "Chưa thực hiện",
+            "value": 5
+          },
+          {
+            "key": "DANGTHUCHIEN",
+            "title": "Đang thực hiện",
+            "value": 100
+          },
+          {
+            "key": "DAHOANTHANH",
+            "title": "Đã hoàn thành",
+            "value": 15
+          }
+        ],
+        "max_progress": 50,
+        "description": [
+          {
+            "key": "QUAHAN",
+            "title": "Quá hạn",
+            "value": 8
+          },
+          {
+            "key": "DENHAN",
+            "title": "Đến hạn",
+            "value": 22
+          },
+          {
+            "key": "TRONGHAN",
+            "title": "Trong hạn",
+            "value": 20
+          }
+        ]
+      },
+      "box_chart": {
+        "title": "",
+        "element": "ThongKETINHTRANGXULY",
+        "bodyData": {
+          "chartType": "BasePieChart",
+          "data": [
+            {
+              "name": "Nhiệm vụ đơn vị",
+              "y": 35,
+              "color": "#05FBB7"
+            },
+            {
+              "name": "Nhiệm vụ Ban lãnh đạo",
+              "y": 15,
+              "color": "#7B00FD"
+            }
+          ]
+        }
+      },
+      "box_thongke": [],
+      "box_table": {
+        "fields": [
+          {
+            "key": "SONHIEMVU",
+            "label": "Số nhiệm vụ",
+            "sortable": false
+          },
+          {
+            "key": "NOIDUNG",
+            "label": "Nội dung",
+            "sortable": false
+          },
+          {
+            "key": "DVTHUCHIEN",
+            "label": "Đơn vị thực hiện",
+            "sortable": false
+          },
+          {
+            "key": "HANXULY",
+            "label": "Hạn xử lý",
+            "sortable": false
+          },
+          {
+            "key": "LOAINHIEMVU",
+            "label": "Loại nhiệm vụ",
+            "sortable": false
+          },
+          {
+            "key": "TRANGTHAIXL",
+            "label": "Trạng thái xử lý",
+            "sortable": false
+          },
+          {
+            "key": "TRANGTHAI",
+            "label": "Trạng thái",
+            "sortable": false
+          },
+          {
+            "key": "TINHCHAT",
+            "label": "Tính chất",
+            "sortable": false
+          }
+        ],
+        "items": [
+          {
+            "SONHIEMVU": "NV12",
+            "NOIDUNG": "Kiểm tra công tác điều hành của chi nhánh và các đơn vị trực thuộc theo nghị quyết của Hội đồng quản trị và chỉ đạo của Tổng giám đốc Ngân hàng",
+            "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+            "HANXULY": "18/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Gấp"
+          },
+          {
+            "SONHIEMVU": "NV11",
+            "NOIDUNG": "Kiểm tra độ chính xác của các báo cáo tài chính, báo cáo cân đối kế toán, việc tuân thủ các nguyên tắc chế độ về chính sách kế toán theo quy định của Nhà nước, ngành ngân hàng",
+            "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Thường xuyên"
+          },
+          {
+            "SONHIEMVU": "NV10",
+            "NOIDUNG": "Báo cáo Tổng giám đốc kết quả kiểm tra và đề xuất biện pháp xử lý, khắc phục khuyết điểm tồn tại",
+            "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+            "HANXULY": "25/05/2021",
+            "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Đặc thù"
+          },
+          {
+            "SONHIEMVU": "NV09",
+            "NOIDUNG": "Xây dựng và đề ra các chính sách, giải pháp để thực hiện chiến lược kinh doanh của ngân hàng trong giai đoạn dịch covid-19",
+            "DVTHUCHIEN": "Kế hoạch tổng hợp",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Thường xuyên"
+          },
+          {
+            "SONHIEMVU": "NV08",
+            "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+            "DVTHUCHIEN": "Hành chính tổng hợp",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ Đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Gấp"
+          },
+          {
+            "SONHIEMVU": "NV07",
+            "NOIDUNG": "Lập báo cáo tài chính quý tháng 4,5,6 quý 2 năm 2021",
+            "DVTHUCHIEN": "Kế toán tài chính",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ Cá nhân",
+            "TRANGTHAIXL": "Quá hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Gấp"
+          }
+        ]
+      }
+    },
+    "total": 50,
+    "show_total": true,
+    "childs": []
+  },
+  {
+    "key": "NHIEMVUDONVI",
+    "title": "Nhiệm vụ đơn vị",
+    "icon_class": "",
+    "icon_svg": "",
+    "data": {
+      "box_progress": {
+        "title": "Nhiệm vụ",
+        "progress": [
+          {
+            "key": "CHUATHUCHIEN",
+            "title": "Chưa thực hiện",
+            "value": 50
+          },
+          {
+            "key": "DANGTHUCHIEN",
+            "title": "Đang thực hiện",
+            "value": 100
+          },
+          {
+            "key": "DAHOANTHANH",
+            "title": "Đã hoàn thành",
+            "value": 50
+          }
+        ],
+        "max_progress": 50,
+        "description": [
+          {
+            "key": "QUAHAN",
+            "title": "Quá hạn",
+            "value": 20
+          },
+          {
+            "key": "DENHAN",
+            "title": "Đến hạn",
+            "value": 120
+          },
+          {
+            "key": "TRONGHAN",
+            "title": "Trong hạn",
+            "value": 60
+          }
+        ]
+      },
+      "box_chart": {},
+      "box_thongke": {
+        "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+        "data": [
+          {
+            "title": "Ban Kế hoạch nguồn vốn",
+            "value": 15,
+            "max": 40
+          },
+          {
+            "title": "Ban Tín dụng",
+            "value": 10,
+            "max": 60
+          },
+          {
+            "title": "Ban Pháp chế",
+            "value": 40,
+            "max": 80
+          },
+          {
+            "title": "Ban Tổ chức và Tiền lương",
+            "value": 70,
+            "max": 100
+          },
+          {
+            "title": "Ban Hộ sản xuất và cá nhân",
+            "value": 30,
+            "max": 100
+          },
+          {
+            "title": "Ban Khách hàng lớn",
+            "value": 50,
+            "max": 100
+          },
+          {
+            "title": "Ban Nghiên cứu Phát triển",
+            "value": 60,
+            "max": 100
+          },
+          {
+            "title": "Ban Cổ phần hóa",
+            "value": 20,
+            "max": 100
+          },
+          {
+            "title": "Trung tâm thẻ",
+            "value": 90,
+            "max": 100
+          },
+          {
+            "title": "Trung tâm Công nghệ thông tin",
+            "value": 80,
+            "max": 100
+          },
+          {
+            "title": "Trung tâm Thanh toán",
+            "value": 20,
+            "max": 100
+          }
+        ]
+      },
+      "box_table": {
+        "fields": [
+          {
+            "key": "SONHIEMVU",
+            "label": "Số nhiệm vụ",
+            "sortable": false
+          },
+          {
+            "key": "NOIDUNG",
+            "label": "Nội dung",
+            "sortable": false
+          },
+          {
+            "key": "DVTHUCHIEN",
+            "label": "Đơn vị thực hiện",
+            "sortable": false
+          },
+          {
+            "key": "HANXULY",
+            "label": "Hạn xử lý",
+            "sortable": false
+          },
+          {
+            "key": "LOAINHIEMVU",
+            "label": "Loại nhiệm vụ",
+            "sortable": false
+          },
+          {
+            "key": "TRANGTHAIXL",
+            "label": "Trạng thái xử lý",
+            "sortable": false
+          },
+          {
+            "key": "TRANGTHAI",
+            "label": "Trạng thái",
+            "sortable": false
+          },
+          {
+            "key": "TINHCHAT",
+            "label": "Tính chất",
+            "sortable": false
+          }
+        ],
+        "items": [
+          {
+            "SONHIEMVU": "NV10",
+            "NOIDUNG": "Nghiên cứu xây dựng chiến lược tín dụng, phân loại khách hàng và đề xuất các chính sách tín dụng ưu đãi đối với từng loại khách hàng trong giai đoạn covid-19",
+            "DVTHUCHIEN": "Phòng Tín dụng",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Đặc thù"
+          },
+          {
+            "SONHIEMVU": "NV09",
+            "NOIDUNG": "Lập báo cáo đề xuất cho vay các dự án tín dụng theo phân cấp ủy quyền",
+            "DVTHUCHIEN": "Phòng Tín dụng",
+            "HANXULY": "12/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Thường xuyên"
+          },
+          {
+            "SONHIEMVU": "NV08",
+            "NOIDUNG": "Xây dựng và đề xuất thực hiện các mô hình tín dụng thí điểm, thử nghiệm trên từng địa bàn",
+            "DVTHUCHIEN": "Phòng Tín dụng",
+            "HANXULY": "12/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ Đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Gấp"
+          },
+          {
+            "SONHIEMVU": "NV07",
+            "NOIDUNG": "Phân loại dư nợ, phân tích nợ quá hạn, tìm nguyên nhân và đề xuất hướng khắc phục",
+            "DVTHUCHIEN": "Phòng tín dụng",
+            "HANXULY": "18/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ Cá nhân",
+            "TRANGTHAIXL": "Quá hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Gấp"
+          },
+          {
+            "SONHIEMVU": "NV06",
+            "NOIDUNG": "Xây dựng và tổ chức các sự kiện thu hút sự chú ý của khách hàng, đối tác và cộng đồng",
+            "DVTHUCHIEN": "Dịch vụ và Marketing",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Thường xuyên"
+          },
+          {
+            "SONHIEMVU": "NV05",
+            "NOIDUNG": "Xây dựng chiến dịch truyền thông và quảng bá thương hiệu , hình ảnh ngân hàng",
+            "DVTHUCHIEN": "Dịch vụ và Marketing",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ Cá nhân",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Đặc thù"
+          },
+          {
+            "SONHIEMVU": "NV04",
+            "NOIDUNG": "Dịch thuật chứng từ, tài liệu lĩnh vực thanh toán quốc tế cho ngân hàng và khách hàng",
+            "DVTHUCHIEN": "Thanh toán quốc tế",
+            "HANXULY": "25/06/2021",
+            "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+            "TRANGTHAIXL": "Trong hạn",
+            "TRANGTHAI": "Đã hoàn thành",
+            "TINHCHAT": "Thường xuyên"
+          }
+        ]
+      }
+    },
+    "total": 200,
+    "show_total": true,
+    "childs": []
+  },
+  {
+    "key": "MUCDO",
+    "title": "Trạng thái xử lý",
+    "icon_class": "",
+    "icon_svg": "",
+    "data": {},
+    "total": 0,
+    "show_total": false,
+    "childs": [
+      {
+        "key": "child4_lv1_1",
+        "title": "Trong hạn",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 60,
+        "show_total": true,
+        "data": {
+          "box_progress": {
+            "title": "Nhiệm vụ",
+            "progress": [
+              {
+                "key": "CHUATHUCHIEN",
+                "title": "Chưa thực hiện",
+                "value": 15
+              },
+              {
+                "key": "DANGTHUCHIEN",
+                "title": "Đang thực hiện",
+                "value": 20
+              },
+              {
+                "key": "DAHOANTHANH",
+                "title": "Đã hoàn thành",
+                "value": 25
+              }
+            ],
+            "max_progress": 60,
+            "description": [
+              {
+                "key": "QUAHAN",
+                "title": "Quá hạn",
+                "value": 15
+              },
+              {
+                "key": "DENHAN",
+                "title": "Đến hạn",
+                "value": 30
+              },
+              {
+                "key": "TRONGHAN",
+                "title": "Trong hạn",
+                "value": 15
+              }
+            ]
+          },
+          "box_chart": {},
+          "box_thongke": {
+            "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+            "data": [
+              {
+                "title": "Ban Kế hoạch nguồn vốn",
+                "value": 15,
+                "max": 40
+              },
+              {
+                "title": "Ban Tín dụng",
+                "value": 10,
+                "max": 60
+              },
+              {
+                "title": "Ban Pháp chế",
+                "value": 40,
+                "max": 80
+              },
+              {
+                "title": "Ban Tổ chức và Tiền lương",
+                "value": 70,
+                "max": 100
+              },
+              {
+                "title": "Ban Hộ sản xuất và cá nhân",
+                "value": 30,
+                "max": 100
+              },
+              {
+                "title": "Ban Khách hàng lớn",
+                "value": 50,
+                "max": 100
+              },
+              {
+                "title": "Ban Nghiên cứu Phát triển",
+                "value": 60,
+                "max": 100
+              },
+              {
+                "title": "Ban Cổ phần hóa",
+                "value": 20,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm thẻ",
+                "value": 90,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm Công nghệ thông tin",
+                "value": 80,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm Thanh toán",
+                "value": 20,
+                "max": 100
+              }
+            ]
+          },
+          "box_table": {
+            "fields": [
+              {
+                "key": "SONHIEMVU",
+                "label": "Số nhiệm vụ",
+                "sortable": false
+              },
+              {
+                "key": "NOIDUNG",
+                "label": "Nội dung",
+                "sortable": false
+              },
+              {
+                "key": "DVTHUCHIEN",
+                "label": "Đơn vị thực hiện",
+                "sortable": false
+              },
+              {
+                "key": "HANXULY",
+                "label": "Hạn xử lý",
+                "sortable": false
+              },
+              {
+                "key": "LOAINHIEMVU",
+                "label": "Loại nhiệm vụ",
+                "sortable": false
+              },
+              {
+                "key": "TRANGTHAIXL",
+                "label": "Trạng thái xử lý",
+                "sortable": false
+              },
+              {
+                "key": "TRANGTHAI",
+                "label": "Trạng thái",
+                "sortable": false
+              },
+              {
+                "key": "TINHCHAT",
+                "label": "Tính chất",
+                "sortable": false
+              }
+            ],
+            "items": [
+              {
+                "SONHIEMVU": "NV03",
+                "NOIDUNG": "Kiểm tra độ chính xác của các báo cáo tài chính, báo cáo cân đối kế toán, việc tuân thủ các nguyên tắc chế độ về chính sách kế toán theo quy định của Nhà nước, ngành ngân hàng",
+                "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Trong hạn",
+                "TINHCHAT": "Gấp"
+              },
+              {
+                "SONHIEMVU": "NV02",
+                "NOIDUNG": "Kiểm tra công tác điều hành của chi nhánh và các đơn vị trực thuộc theo nghị quyết của Hội đồng quản trị và chỉ đạo của Tổng giám đốc Ngân hàng",
+                "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+                "HANXULY": "18/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Trong hạn",
+                "TINHCHAT": "Gấp"
+              },
+              {
+                "SONHIEMVU": "NV01",
+                "NOIDUNG": "Báo cáo Tổng giám đốc kết quả kiểm tra và đề xuất biện pháp xử lý, khắc phục khuyết điểm tồn tại",
+                "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+                "HANXULY": "25/05/2021",
+                "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                "TRANGTHAIXL": "Trong hạn",
+                "TRANGTHAI": "Trong hạn",
+                "TINHCHAT": "Gấp"
+              }
+            ]
+          }
+        },
+        "childs": []
+      },
+      {
+        "key": "child4_lv1_2",
+        "title": "Đến hạn",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 100,
+        "show_total": true,
+        "data": {
+          "box_progress": {
+            "title": "Nhiệm vụ",
+            "progress": [
+              {
+                "key": "CHUATHUCHIEN",
+                "title": "Chưa thực hiện",
+                "value": 25
+              },
+              {
+                "key": "DANGTHUCHIEN",
+                "title": "Đang thực hiện",
+                "value": 60
+              },
+              {
+                "key": "DAHOANTHANH",
+                "title": "Đã hoàn thành",
+                "value": 15
+              }
+            ],
+            "max_progress": 100,
+            "description": [
+              {
+                "key": "QUAHAN",
+                "title": "Quá hạn",
+                "value": 10
+              },
+              {
+                "key": "DENHAN",
+                "title": "Đến hạn",
+                "value": 60
+              },
+              {
+                "key": "TRONGHAN",
+                "title": "Trong hạn",
+                "value": 30
+              }
+            ]
+          },
+          "box_chart": {},
+          "box_thongke": {
+            "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+            "data": [
+              {
+                "title": "Ban Kế hoạch nguồn vốn",
+                "value": 15,
+                "max": 40
+              },
+              {
+                "title": "Ban Tín dụng",
+                "value": 10,
+                "max": 60
+              },
+              {
+                "title": "Ban Pháp chế",
+                "value": 40,
+                "max": 80
+              },
+              {
+                "title": "Ban Tổ chức và Tiền lương",
+                "value": 70,
+                "max": 100
+              },
+              {
+                "title": "Ban Hộ sản xuất và cá nhân",
+                "value": 30,
+                "max": 100
+              },
+              {
+                "title": "Ban Khách hàng lớn",
+                "value": 50,
+                "max": 100
+              },
+              {
+                "title": "Ban Nghiên cứu Phát triển",
+                "value": 60,
+                "max": 100
+              },
+              {
+                "title": "Ban Cổ phần hóa",
+                "value": 20,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm thẻ",
+                "value": 90,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm Công nghệ thông tin",
+                "value": 80,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm Thanh toán",
+                "value": 20,
+                "max": 100
+              }
+            ]
+          },
+          "box_table": {
+            "fields": [
+              {
+                "key": "SONHIEMVU",
+                "label": "Số nhiệm vụ",
+                "sortable": false
+              },
+              {
+                "key": "NOIDUNG",
+                "label": "Nội dung",
+                "sortable": false
+              },
+              {
+                "key": "DVTHUCHIEN",
+                "label": "Đơn vị thực hiện",
+                "sortable": false
+              },
+              {
+                "key": "HANXULY",
+                "label": "Hạn xử lý",
+                "sortable": false
+              },
+              {
+                "key": "LOAINHIEMVU",
+                "label": "Loại nhiệm vụ",
+                "sortable": false
+              },
+              {
+                "key": "TRANGTHAIXL",
+                "label": "Trạng thái xử lý",
+                "sortable": false
+              },
+              {
+                "key": "TRANGTHAI",
+                "label": "Trạng thái",
+                "sortable": false
+              },
+              {
+                "key": "TINHCHAT",
+                "label": "Tính chất",
+                "sortable": false
+              }
+            ],
+            "items": [
+              {
+                "SONHIEMVU": "NV06",
+                "NOIDUNG": "Xây dựng và đề ra các chính sách, giải pháp để thực hiện chiến lược kinh doanh của ngân hàng trong giai đoạn dịch covid-19",
+                "DVTHUCHIEN": "Kế hoạch tổng hợp",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Đã hoàn thành",
+                "TINHCHAT": "Đặc thù"
+              },
+              {
+                "SONHIEMVU": "NV05",
+                "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+                "DVTHUCHIEN": "Hành chính tổng hợp",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ Cá nhân",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Đã hoàn thành",
+                "TINHCHAT": "Đặc thù"
+              },
+              {
+                "SONHIEMVU": "NV04",
+                "NOIDUNG": "Xây dựng và đề ra các chính sách, giải pháp để thực hiện chiến lược kinh doanh của ngân hàng trong giai đoạn dịch covid-19",
+                "DVTHUCHIEN": "Kế hoạch tổng hợp",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Đã hoàn thành",
+                "TINHCHAT": "Đặc thù"
+              },
+              {
+                "SONHIEMVU": "NV03",
+                "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+                "DVTHUCHIEN": "Hành chính tổng hợp",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Đã hoàn thành",
+                "TINHCHAT": "Đặc thù"
+              }
+            ]
+          }
+        },
+        "childs": []
+      },
+      {
+        "key": "child4_lv1_3",
+        "title": "Quá hạn",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 40,
+        "show_total": true,
+        "data": {
+          "box_progress": {
+            "title": "Nhiệm vụ",
+            "progress": [
+              {
+                "key": "CHUATHUCHIEN",
+                "title": "Chưa thực hiện",
+                "value": 8
+              },
+              {
+                "key": "DANGTHUCHIEN",
+                "title": "Đang thực hiện",
+                "value": 15
+              },
+              {
+                "key": "DAHOANTHANH",
+                "title": "Đã hoàn thành",
+                "value": 17
+              }
+            ],
+            "max_progress": 40,
+            "description": [
+              {
+                "key": "QUAHAN",
+                "title": "Quá hạn",
+                "value": 6
+              },
+              {
+                "key": "DENHAN",
+                "title": "Đến hạn",
+                "value": 20
+              },
+              {
+                "key": "TRONGHAN",
+                "title": "Trong hạn",
+                "value": 14
+              }
+            ]
+          },
+          "box_chart": {},
+          "box_thongke": {
+            "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+            "data": [
+              {
+                "title": "Ban Kế hoạch nguồn vốn",
+                "value": 15,
+                "max": 40
+              },
+              {
+                "title": "Ban Tín dụng",
+                "value": 10,
+                "max": 60
+              },
+              {
+                "title": "Ban Pháp chế",
+                "value": 40,
+                "max": 80
+              },
+              {
+                "title": "Ban Tổ chức và Tiền lương",
+                "value": 70,
+                "max": 100
+              },
+              {
+                "title": "Ban Hộ sản xuất và cá nhân",
+                "value": 30,
+                "max": 100
+              },
+              {
+                "title": "Ban Khách hàng lớn",
+                "value": 50,
+                "max": 100
+              },
+              {
+                "title": "Ban Nghiên cứu Phát triển",
+                "value": 60,
+                "max": 100
+              },
+              {
+                "title": "Ban Cổ phần hóa",
+                "value": 20,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm thẻ",
+                "value": 90,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm Công nghệ thông tin",
+                "value": 80,
+                "max": 100
+              },
+              {
+                "title": "Trung tâm Thanh toán",
+                "value": 20,
+                "max": 100
+              }
+            ]
+          },
+          "box_table": {
+            "fields": [
+              {
+                "key": "SONHIEMVU",
+                "label": "Số nhiệm vụ",
+                "sortable": false
+              },
+              {
+                "key": "NOIDUNG",
+                "label": "Nội dung",
+                "sortable": false
+              },
+              {
+                "key": "DVTHUCHIEN",
+                "label": "Đơn vị thực hiện",
+                "sortable": false
+              },
+              {
+                "key": "HANXULY",
+                "label": "Hạn xử lý",
+                "sortable": false
+              },
+              {
+                "key": "LOAINHIEMVU",
+                "label": "Loại nhiệm vụ",
+                "sortable": false
+              },
+              {
+                "key": "TRANGTHAIXL",
+                "label": "Trạng thái xử lý",
+                "sortable": false
+              },
+              {
+                "key": "TRANGTHAI",
+                "label": "Trạng thái",
+                "sortable": false
+              },
+              {
+                "key": "TINHCHAT",
+                "label": "Tính chất",
+                "sortable": false
+              }
+            ],
+            "items": [
+              {
+                "SONHIEMVU": "NV08",
+                "NOIDUNG": "Lập báo cáo tài chính quý tháng 4,5,6 quý 2 năm 2021",
+                "DVTHUCHIEN": "Kế toán tài chính",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ Đơn vị",
+                "TRANGTHAIXL": "Trong hạn",
+                "TRANGTHAI": "Quá hạn",
+                "TINHCHAT": "Thường xuyên"
+              },
+              {
+                "SONHIEMVU": "NV07",
+                "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+                "DVTHUCHIEN": "Hành chính tổng hợp",
+                "HANXULY": "25/06/2021",
+                "LOAINHIEMVU": "Nhiệm vụ Cá nhân",
+                "TRANGTHAIXL": "Quá hạn",
+                "TRANGTHAI": "Quá hạn",
+                "TINHCHAT": "Thường xuyên"
+              }
+            ]
+          }
+        },
+        "childs": []
+      }
+    ]
+  },
+
+  {
+    "key": "DONVITHUCHIEN",
+    "title": "Đơn vị thực hiện",
+    "icon_class": "",
+    "icon_svg": "",
+    "data": {},
+    "total": 0,
+    "show_total": false,
+    "childs": [
+      {
+        "key": "child6_lv1_2",
+        "title": "Văn phòng đại diện",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 30,
+        "show_total": true,
+        "data": {},
+        "childs": [
+          {
+            "key": "child6_lv1_111",
+            "title": "VP đại diện khu vực miền Trung",
+            "icon_class": "",
+            "icon_svg": "",
+            "total": 7,
+            "show_total": true
+          },
+          {
+            "key": "child6_lv1_112",
+            "title": "VP đại diện khu vực miền Nam",
+            "icon_class": "",
+            "icon_svg": "",
+            "total": 7,
+            "show_total": true
+          }
+        ]
+      },
+      {
+        "key": "child6_lv1_3",
+        "title": "Chi nhánh loại I",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 34,
+        "show_total": true,
+        "data": {},
+        "childs": [
+          {
+            "key": "child6_lv1_1",
+            "title": "Điểm giao dịch lưu động",
+            "icon_class": "",
+            "icon_svg": "",
+            "total": 7,
+            "show_total": true,
+            "data": {
+              "box_progress": {
+                "title": "Nhiệm vụ",
+                "progress": [
+                  {
+                    "key": "CHUATHUCHIEN",
+                    "title": "Chưa thực hiện",
+                    "value": 2
+                  },
+                  {
+                    "key": "DANGTHUCHIEN",
+                    "title": "Đang thực hiện",
+                    "value": 3
+                  },
+                  {
+                    "key": "DAHOANTHANH",
+                    "title": "Đã hoàn thành",
+                    "value": 2
+                  }
+                ],
+                "max_progress": 7,
+                "description": [
+                  {
+                    "key": "QUAHAN",
+                    "title": "Quá hạn",
+                    "value": 0
+                  },
+                  {
+                    "key": "DENHAN",
+                    "title": "Đến hạn",
+                    "value": 5
+                  },
+                  {
+                    "key": "TRONGHAN",
+                    "title": "Trong hạn",
+                    "value": 2
+                  }
+                ]
+              },
+              "box_chart": {},
+              "box_thongke": {
+                "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+                "data": [
+                  {
+                    "title": "Ban Kế hoạch nguồn vốn",
+                    "value": 15,
+                    "max": 40
+                  },
+                  {
+                    "title": "Ban Tín dụng",
+                    "value": 10,
+                    "max": 60
+                  },
+                  {
+                    "title": "Ban Pháp chế",
+                    "value": 40,
+                    "max": 80
+                  },
+                  {
+                    "title": "Trung tâm Công nghệ thông tin",
+                    "value": 70,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trường đào tạo cán bộ",
+                    "value": 30,
+                    "max": 100
+                  },
+                  {
+                    "title": "Văn phòng",
+                    "value": 50,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trung tâm thẻ",
+                    "value": 60,
+                    "max": 100
+                  }
+                ]
+              },
+              "box_table": {
+                "fields": [
+                  {
+                    "key": "SONHIEMVU",
+                    "label": "Số nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "NOIDUNG",
+                    "label": "Nội dung",
+                    "sortable": false
+                  },
+                  {
+                    "key": "DVTHUCHIEN",
+                    "label": "Đơn vị thực hiện",
+                    "sortable": false
+                  },
+                  {
+                    "key": "HANXULY",
+                    "label": "Hạn xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "LOAINHIEMVU",
+                    "label": "Loại nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAIXL",
+                    "label": "Trạng thái xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAI",
+                    "label": "Trạng thái",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TINHCHAT",
+                    "label": "Tính chất",
+                    "sortable": false
+                  }
+                ],
+                "items": [
+                  {
+                    "SONHIEMVU": "NVDV04",
+                    "NOIDUNG": "Lập báo cáo tài chính quý tháng 4,5,6 quý 2 năm 2021",
+                    "DVTHUCHIEN": "Kế toán tài chính",
+                    "HANXULY": "25/06/2021",
+                    "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                    "TRANGTHAIXL": "Trong hạn",
+                    "TRANGTHAI": "Chưa xử lý",
+                    "TINHCHAT": "Bình thường"
+                  },
+                  {
+                    "SONHIEMVU": "NVDV03",
+                    "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+                    "DVTHUCHIEN": "Hành chính tổng hợp",
+                    "HANXULY": "25/06/2021",
+                    "LOAINHIEMVU": "Nhiệm vụ Bộ",
+                    "TRANGTHAIXL": "Trong hạn",
+                    "TRANGTHAI": "Đã hoàn thành",
+                    "TINHCHAT": "Gấp"
+                  },
+                  {
+                    "SONHIEMVU": "NVDV04",
+                    "NOIDUNG": "Lập báo cáo tài chính quý tháng 4,5,6 quý 2 năm 2021",
+                    "DVTHUCHIEN": "Kế toán tài chính",
+                    "HANXULY": "25/06/2021",
+                    "LOAINHIEMVU": "Nhiệm vụ Bộ",
+                    "TRANGTHAIXL": "Trong hạn",
+                    "TRANGTHAI": "Chưa thực hiện",
+                    "TINHCHAT": "Thường xuyên"
+                  }
+                ]
+              }
+            },
+            "childs": []
+          },
+          {
+            "key": "child6_lv2_2",
+            "title": "Chi nhánh loại II",
+            "icon_class": "",
+            "icon_svg": "",
+            "total": 5,
+            "show_total": true,
+            "child": [
+              {
+                "key": "child6_lv1_3",
+                "title": "Chi nhánh loại I",
+                "icon_class": "LayersIcon",
+                "icon_svg": "",
+                "total": 34,
+                "show_total": true,
+                "data": {}
+              }
+            ],
+            "data": {
+              "box_progress": {
+                "title": "Nhiệm vụ",
+                "progress": [
+                  {
+                    "key": "CHUATHUCHIEN",
+                    "title": "Phòng GIAO DỊCH",
+                    "value": 1
+                  },
+                  {
+                    "key": "DANGTHUCHIEN",
+                    "title": "Đang thực hiện",
+                    "value": 3
+                  },
+                  {
+                    "key": "DAHOANTHANH",
+                    "title": "Đã hoàn thành",
+                    "value": 1
+                  }
+                ],
+                "max_progress": 5,
+                "description": [
+                  {
+                    "key": "QUAHAN",
+                    "title": "Quá hạn",
+                    "value": 0
+                  },
+                  {
+                    "key": "DENHAN",
+                    "title": "Đến hạn",
+                    "value": 3
+                  },
+                  {
+                    "key": "TRONGHAN",
+                    "title": "Trong hạn",
+                    "value": 2
+                  }
+                ]
+              },
+              "box_chart": {},
+              "box_thongke": {
+                "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+                "data": [
+                  {
+                    "title": "Ban Kế hoạch nguồn vốn",
+                    "value": 15,
+                    "max": 40
+                  },
+                  {
+                    "title": "Ban Tín dụng",
+                    "value": 10,
+                    "max": 60
+                  },
+                  {
+                    "title": "Ban Pháp chế",
+                    "value": 40,
+                    "max": 80
+                  },
+                  {
+                    "title": "Trung tâm Công nghệ thông tin",
+                    "value": 70,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trường đào tạo cán bộ",
+                    "value": 30,
+                    "max": 100
+                  },
+                  {
+                    "title": "Văn phòng",
+                    "value": 50,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trung tâm thẻ",
+                    "value": 60,
+                    "max": 100
+                  }
+                ]
+              },
+              "box_table": {
+                "fields": [
+                  {
+                    "key": "SONHIEMVU",
+                    "label": "Số nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "NOIDUNG",
+                    "label": "Nội dung",
+                    "sortable": false
+                  },
+                  {
+                    "key": "DVTHUCHIEN",
+                    "label": "Đơn vị thực hiện",
+                    "sortable": false
+                  },
+                  {
+                    "key": "HANXULY",
+                    "label": "Hạn xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "LOAINHIEMVU",
+                    "label": "Loại nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAIXL",
+                    "label": "Trạng thái xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAI",
+                    "label": "Trạng thái",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TINHCHAT",
+                    "label": "Tính chất",
+                    "sortable": false
+                  }
+                ],
+                "items": [
+                  {
+                    "SONHIEMVU": "NVDV04",
+                    "NOIDUNG": "Tổng hợp Số lượt cán bộ, công chức, viên chức được đào tạo, bồi dưỡng",
+                    "DVTHUCHIEN": " VP đại diện khu vực miền Nam",
+                    "HANXULY": "15/05/2032",
+                    "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                    "TRANGTHAIXL": "Trong hạn",
+                    "TRANGTHAI": "Chưa xử lý",
+                    "TINHCHAT": "Bình thường"
+                  }
+                ]
+              }
+            },
+            "childs": [
+              {
+                "key": "child6_lv2_32313",
+                "title": "Phòng giao dịch",
+                "icon_class": "",
+                "icon_svg": "",
+                "total": 6,
+                "show_total": true,
+                "data": {
+                  "box_progress": {
+                    "title": "Nhiệm vụ",
+                    "progress": [
+                      {
+                        "key": "CHUATHUCHIEN",
+                        "title": "Chưa thực hiện",
+                        "value": 2
+                      },
+                      {
+                        "key": "DANGTHUCHIEN",
+                        "title": "Đang thực hiện",
+                        "value": 3
+                      },
+                      {
+                        "key": "DAHOANTHANH",
+                        "title": "Đã hoàn thành",
+                        "value": 1
+                      }
+                    ],
+                    "max_progress": 6,
+                    "description": [
+                      {
+                        "key": "QUAHAN",
+                        "title": "Quá hạn",
+                        "value": 0
+                      },
+                      {
+                        "key": "DENHAN",
+                        "title": "Đến hạn",
+                        "value": 3
+                      },
+                      {
+                        "key": "TRONGHAN",
+                        "title": "Trong hạn",
+                        "value": 3
+                      }
+                    ]
+                  },
+                  "box_chart": {},
+                  "box_thongke": {
+                    "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+                    "data": [
+                      {
+                        "title": "VP đại diện khu vực miền Trung",
+                        "value": 15,
+                        "max": 40
+                      },
+                      {
+                        "title": "VP đại diện khu vực miền Nam",
+                        "value": 10,
+                        "max": 60
+                      },
+                      {
+                        "title": "Ban Pháp chế",
+                        "value": 40,
+                        "max": 80
+                      },
+                      {
+                        "title": "Trung tâm Công nghệ thông tin",
+                        "value": 70,
+                        "max": 100
+                      },
+                      {
+                        "title": "Trường đào tạo cán bộ",
+                        "value": 30,
+                        "max": 100
+                      },
+                      {
+                        "title": "Văn phòng",
+                        "value": 50,
+                        "max": 100
+                      },
+                      {
+                        "title": "Trung tâm thẻ",
+                        "value": 60,
+                        "max": 100
+                      }
+                    ]
+                  },
+                  "box_table": {
+                    "fields": [
+                      {
+                        "key": "SONHIEMVU",
+                        "label": "Số nhiệm vụ",
+                        "sortable": false
+                      },
+                      {
+                        "key": "NOIDUNG",
+                        "label": "Nội dung",
+                        "sortable": false
+                      },
+                      {
+                        "key": "DVTHUCHIEN",
+                        "label": "Đơn vị thực hiện",
+                        "sortable": false
+                      },
+                      {
+                        "key": "HANXULY",
+                        "label": "Hạn xử lý",
+                        "sortable": false
+                      },
+                      {
+                        "key": "LOAINHIEMVU",
+                        "label": "Loại nhiệm vụ",
+                        "sortable": false
+                      },
+                      {
+                        "key": "TRANGTHAIXL",
+                        "label": "Trạng thái xử lý",
+                        "sortable": false
+                      },
+                      {
+                        "key": "TRANGTHAI",
+                        "label": "Trạng thái",
+                        "sortable": false
+                      },
+                      {
+                        "key": "TINHCHAT",
+                        "label": "Tính chất",
+                        "sortable": false
+                      }
+                    ],
+                    "items": [
+                      {
+                        "SONHIEMVU": "NVDV02",
+                        "NOIDUNG": "Lập báo cáo tài chính quý tháng 4,5,6 quý 2 năm 2021",
+                        "DVTHUCHIEN": "Kế toán tài chính",
+                        "HANXULY": "25/06/2021",
+                        "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                        "TRANGTHAIXL": "Quá hạn",
+                        "TRANGTHAI": "Quá hạn",
+                        "TINHCHAT": "Gấp"
+                      },
+                      {
+                        "SONHIEMVU": "NVDV03",
+                        "NOIDUNG": "Xây dựng và đề ra các chính sách, giải pháp để thực hiện chiến lược kinh doanh của ngân hàng trong giai đoạn dịch covid-19",
+                        "DVTHUCHIEN": "Kế hoạch tổng hợp",
+                        "HANXULY": "25/06/2021",
+                        "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                        "TRANGTHAIXL": "Trong hạn",
+                        "TRANGTHAI": "Đã hoàn thành",
+                        "TINHCHAT": "Gấp"
+                      }
+                    ]
+                  }
+                },
+                "childs": []
+              },
+              {
+                "key": "child6_lv2_354",
+                "title": "Điểm giao dịch lưu động",
+                "icon_class": "",
+                "icon_svg": "",
+                "total": 6,
+                "show_total": true,
+                "data": {
+                  "box_progress": {
+                    "title": "Nhiệm vụ",
+                    "progress": [
+                      {
+                        "key": "CHUATHUCHIEN",
+                        "title": "Chưa thực hiện",
+                        "value": 2
+                      },
+                      {
+                        "key": "DANGTHUCHIEN",
+                        "title": "Đang thực hiện",
+                        "value": 3
+                      },
+                      {
+                        "key": "DAHOANTHANH",
+                        "title": "Đã hoàn thành",
+                        "value": 1
+                      }
+                    ],
+                    "max_progress": 6,
+                    "description": [
+                      {
+                        "key": "QUAHAN",
+                        "title": "Quá hạn",
+                        "value": 0
+                      },
+                      {
+                        "key": "DENHAN",
+                        "title": "Đến hạn",
+                        "value": 3
+                      },
+                      {
+                        "key": "TRONGHAN",
+                        "title": "Trong hạn",
+                        "value": 3
+                      }
+                    ]
+                  },
+                  "box_chart": {},
+                  "box_thongke": {
+                    "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+                    "data": [
+                      {
+                        "title": "Ban Kế hoạch nguồn vốn",
+                        "value": 15,
+                        "max": 40
+                      },
+                      {
+                        "title": "VP đại diện khu vực miền Nam",
+                        "value": 10,
+                        "max": 60
+                      },
+                      {
+                        "title": "Ban Pháp chế",
+                        "value": 40,
+                        "max": 80
+                      },
+                      {
+                        "title": "Trung tâm Công nghệ thông tin",
+                        "value": 70,
+                        "max": 100
+                      },
+                      {
+                        "title": "Trường đào tạo cán bộ",
+                        "value": 30,
+                        "max": 100
+                      },
+                      {
+                        "title": "Văn phòng",
+                        "value": 50,
+                        "max": 100
+                      },
+                      {
+                        "title": "Trung tâm thẻ",
+                        "value": 60,
+                        "max": 100
+                      }
+                    ]
+                  },
+                  "box_table": {
+                    "fields": [
+                      {
+                        "key": "SONHIEMVU",
+                        "label": "Số nhiệm vụ",
+                        "sortable": false
+                      },
+                      {
+                        "key": "NOIDUNG",
+                        "label": "Nội dung",
+                        "sortable": false
+                      },
+                      {
+                        "key": "DVTHUCHIEN",
+                        "label": "Đơn vị thực hiện",
+                        "sortable": false
+                      },
+                      {
+                        "key": "HANXULY",
+                        "label": "Hạn xử lý",
+                        "sortable": false
+                      },
+                      {
+                        "key": "LOAINHIEMVU",
+                        "label": "Loại nhiệm vụ",
+                        "sortable": false
+                      },
+                      {
+                        "key": "TRANGTHAIXL",
+                        "label": "Trạng thái xử lý",
+                        "sortable": false
+                      },
+                      {
+                        "key": "TRANGTHAI",
+                        "label": "Trạng thái",
+                        "sortable": false
+                      },
+                      {
+                        "key": "TINHCHAT",
+                        "label": "Tính chất",
+                        "sortable": false
+                      }
+                    ],
+                    "items": [
+                      {
+                        "SONHIEMVU": "NVDV02",
+                        "NOIDUNG": "Xây dựng và đề ra các chính sách, giải pháp để thực hiện chiến lược kinh doanh của ngân hàng trong giai đoạn dịch covid-19",
+                        "DVTHUCHIEN": "Kế hoạch tổng hợp",
+                        "HANXULY": "25/06/2021",
+                        "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                        "TRANGTHAIXL": "Quá hạn",
+                        "TRANGTHAI": "Đang thực hiện",
+                        "TINHCHAT": "Gấp"
+                      },
+                      {
+                        "SONHIEMVU": "NVDV03",
+                        "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+                        "DVTHUCHIEN": "Hành chính tổng hợp",
+                        "HANXULY": "25/06/2021",
+                        "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                        "TRANGTHAIXL": "Trong hạn",
+                        "TRANGTHAI": "Đã hoàn thành",
+                        "TINHCHAT": "Gấp"
+                      }
+                    ]
+                  }
+                },
+                "childs": []
+              }
+            ]
+          },
+          {
+            "key": "child6_lv2_3",
+            "title": "Phòng giao dịch",
+            "icon_class": "",
+            "icon_svg": "",
+            "total": 6,
+            "show_total": true,
+            "data": {
+              "box_progress": {
+                "title": "Nhiệm vụ",
+                "progress": [
+                  {
+                    "key": "CHUATHUCHIEN",
+                    "title": "Chưa thực hiện",
+                    "value": 2
+                  },
+                  {
+                    "key": "DANGTHUCHIEN",
+                    "title": "Đang thực hiện",
+                    "value": 3
+                  },
+                  {
+                    "key": "DAHOANTHANH",
+                    "title": "Đã hoàn thành",
+                    "value": 1
+                  }
+                ],
+                "max_progress": 6,
+                "description": [
+                  {
+                    "key": "QUAHAN",
+                    "title": "Quá hạn",
+                    "value": 0
+                  },
+                  {
+                    "key": "DENHAN",
+                    "title": "Đến hạn",
+                    "value": 3
+                  },
+                  {
+                    "key": "TRONGHAN",
+                    "title": "Trong hạn",
+                    "value": 3
+                  }
+                ]
+              },
+              "box_chart": {},
+              "box_thongke": {
+                "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+                "data": [
+                  {
+                    "title": "Ban Kế hoạch nguồn vốn",
+                    "value": 15,
+                    "max": 40
+                  },
+                  {
+                    "title": "Ban Tín dụng",
+                    "value": 10,
+                    "max": 60
+                  },
+                  {
+                    "title": "Ban Pháp chế",
+                    "value": 40,
+                    "max": 80
+                  },
+                  {
+                    "title": "Trung tâm Công nghệ thông tin",
+                    "value": 70,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trường đào tạo cán bộ",
+                    "value": 30,
+                    "max": 100
+                  },
+                  {
+                    "title": "Văn phòng",
+                    "value": 50,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trung tâm thẻ",
+                    "value": 60,
+                    "max": 100
+                  }
+                ]
+              },
+              "box_table": {
+                "fields": [
+                  {
+                    "key": "SONHIEMVU",
+                    "label": "Số nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "NOIDUNG",
+                    "label": "Nội dung",
+                    "sortable": false
+                  },
+                  {
+                    "key": "DVTHUCHIEN",
+                    "label": "Đơn vị thực hiện",
+                    "sortable": false
+                  },
+                  {
+                    "key": "HANXULY",
+                    "label": "Hạn xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "LOAINHIEMVU",
+                    "label": "Loại nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAIXL",
+                    "label": "Trạng thái xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAI",
+                    "label": "Trạng thái",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TINHCHAT",
+                    "label": "Tính chất",
+                    "sortable": false
+                  }
+                ],
+                "items": [
+                  {
+                    "SONHIEMVU": "NVDV02",
+                    "NOIDUNG": "Xây dựng và thực hiện kế hoạch tuyển dụng đào tạo, bồi dưỡng và quản lý nguồn nhân lực toàn hệ thống",
+                    "DVTHUCHIEN": "Hành chính tổng hợp",
+                    "HANXULY": "25/06/2021",
+                    "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                    "TRANGTHAIXL": "Quá hạn",
+                    "TRANGTHAI": "Đang thực hiện",
+                    "TINHCHAT": "Gấp"
+                  },
+                  {
+                    "SONHIEMVU": "NVDV03",
+                    "NOIDUNG": "Kiểm tra công tác điều hành của chi nhánh và các đơn vị trực thuộc theo nghị quyết của Hội đồng quản trị và chỉ đạo của Tổng giám đốc Ngân hàng",
+                    "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+                    "HANXULY": "18/06/2021",
+                    "LOAINHIEMVU": "Nhiệm vụ cá nhân",
+                    "TRANGTHAIXL": "Trong hạn",
+                    "TRANGTHAI": "Trong hạn",
+                    "TINHCHAT": "Gấp"
+                  }
+                ]
+              }
+            },
+            "childs": []
+          }
+        ]
+      },
+      {
+        "key": "child6_lv1_4",
+        "title": "Đơn vị sự nghiệp",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 34,
+        "show_total": true,
+        "data": {},
+        "childs": [
+          {
+            "key": "TTCNTT",
+            "title": "Trung tâm Công nghệ thông tin",
+            "icon_class": "LayersIcon",
+            "icon_svg": "",
+            "total": 8,
+            "show_total": true
+          },
+          {
+            "key": "TĐTCB",
+            "title": "Trường đào tạo cán bộ",
+            "icon_class": "LayersIcon",
+            "icon_svg": "",
+            "total": 18,
+            "show_total": true
+          },
+          {
+            "key": "TTT",
+            "title": "Trung tâm thẻ",
+            "icon_class": "LayersIcon",
+            "icon_svg": "",
+            "total": 14,
+            "show_total": true
+          }
+        ]
+      },
+      {
+        "key": "BCTVHL",
+        "title": "Công ty con",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 148,
+        "show_total": true,
+        "childs": [
+          {
+            "key": "CTCTTC1",
+            "title": "Công ty cho thuê tài chính I",
+            "icon_class": "LayersIcon",
+            "icon_svg": "",
+            "total": 14,
+            "show_total": true
+          },
+          {
+            "key": "CTCTTC2",
+            "title": "Công ty cho thuê tài chính II",
+            "icon_class": "LayersIcon",
+            "icon_svg": "",
+            "total": 14,
+            "show_total": true
+          },
+          {
+            "key": "CTTTNHHCK",
+            "title": "Công ty TNHH chứng khoán",
+            "icon_class": "LayersIcon",
+            "icon_svg": "",
+            "total": 14,
+            "show_total": true
+          },
+
+          {
+            "key": "BCTVHL_10",
+            "title": "Công ty quản lý nợ và khai thác tài sản",
+            "childs": [],
+            "icon_class": "",
+            "icon_svg": "",
+            "total": 5,
+            "show_total": true,
+            "data": {
+              "box_progress": {
+                "title": "Nhiệm vụ",
+                "progress": [
+                  {
+                    "key": "CHUATHUCHIEN",
+                    "title": "Chưa thực hiện",
+                    "value": 1
+                  },
+                  {
+                    "key": "DANGTHUCHIEN",
+                    "title": "Đang thực hiện",
+                    "value": 3
+                  },
+                  {
+                    "key": "DAHOANTHANH",
+                    "title": "Đã hoàn thành",
+                    "value": 1
+                  }
+                ],
+                "max_progress": 5,
+                "description": [
+                  {
+                    "key": "QUAHAN",
+                    "title": "Quá hạn",
+                    "value": 0
+                  },
+                  {
+                    "key": "DENHAN",
+                    "title": "Đến hạn",
+                    "value": 3
+                  },
+                  {
+                    "key": "TRONGHAN",
+                    "title": "Trong hạn",
+                    "value": 2
+                  }
+                ]
+              },
+              "box_chart": {},
+              "box_thongke": {
+                "title": "Thống kê nhiệm vụ chưa hoàn thành theo đơn vị xử lý",
+                "data": [
+                  {
+                    "title": "Ban Kế hoạch nguồn vốn",
+                    "value": 15,
+                    "max": 40
+                  },
+                  {
+                    "title": "Ban Tín dụng",
+                    "value": 10,
+                    "max": 60
+                  },
+                  {
+                    "title": "Ban Pháp chế",
+                    "value": 40,
+                    "max": 80
+                  },
+                  {
+                    "title": "Ban Tổ chức và Tiền lương",
+                    "value": 70,
+                    "max": 100
+                  },
+                  {
+                    "title": "Ban Hộ sản xuất và cá nhân",
+                    "value": 30,
+                    "max": 100
+                  },
+                  {
+                    "title": "Ban Khách hàng lớn",
+                    "value": 50,
+                    "max": 100
+                  },
+                  {
+                    "title": "Ban Nghiên cứu Phát triển",
+                    "value": 60,
+                    "max": 100
+                  },
+                  {
+                    "title": "Ban Cổ phần hóa",
+                    "value": 20,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trung tâm thẻ",
+                    "value": 90,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trung tâm Công nghệ thông tin",
+                    "value": 80,
+                    "max": 100
+                  },
+                  {
+                    "title": "Trung tâm Thanh toán",
+                    "value": 20,
+                    "max": 100
+                  }
+                ]
+              },
+              "box_table": {
+                "fields": [
+                  {
+                    "key": "SONHIEMVU",
+                    "label": "Số nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "NOIDUNG",
+                    "label": "Nội dung",
+                    "sortable": false
+                  },
+                  {
+                    "key": "DVTHUCHIEN",
+                    "label": "Đơn vị thực hiện",
+                    "sortable": false
+                  },
+                  {
+                    "key": "HANXULY",
+                    "label": "Hạn xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "LOAINHIEMVU",
+                    "label": "Loại nhiệm vụ",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAIXL",
+                    "label": "Trạng thái xử lý",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TRANGTHAI",
+                    "label": "Trạng thái",
+                    "sortable": false
+                  },
+                  {
+                    "key": "TINHCHAT",
+                    "label": "Tính chất",
+                    "sortable": false
+                  }
+                ],
+                "items": [
+                  {
+                    "SONHIEMVU": "NVDV04",
+                    "NOIDUNG": "Kiểm tra công tác điều hành của chi nhánh và các đơn vị trực thuộc theo nghị quyết của Hội đồng quản trị và chỉ đạo của Tổng giám đốc Ngân hàng",
+                    "DVTHUCHIEN": "Kiểm tra kiểm soát nội bộ",
+                    "HANXULY": "18/06/2021",
+                    "LOAINHIEMVU": "Nhiệm vụ đơn vị",
+                    "TRANGTHAIXL": "Trong hạn",
+                    "TRANGTHAI": "Chưa xử lý",
+                    "TINHCHAT": "Bình thường"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "key": "child6_lv2_2",
+        "title": "Chi nhánh nước ngoài",
+        "icon_class": "LayersIcon",
+        "icon_svg": "",
+        "total": 120,
+        "show_total": true,
+        "data": {},
+        "childs": []
+      }
+    ]
+  }
+]

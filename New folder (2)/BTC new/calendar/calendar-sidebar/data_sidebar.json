@@ -1,0 +1,286 @@
+[
+  {
+    "title": "Lịch của tôi",
+    "key": "LICHCUATOI",
+    "count": 1,
+    "childs": [],
+    "icon": ""
+  },
+  {
+    "title": "Lịch đơn vị",
+    "key": "LICHDONVI",
+    "count": 1,
+    "childs": [],
+    "icon": ""
+  },
+  {
+    "title": "Đơn vị",
+    "key": "DONVI",
+    "count": 0,
+    "childs": [
+      {
+        "title": "Lãnh đạo Bộ",
+        "key": "LANHDAOBO",
+        "count": 20,
+        "childs": [],
+        "icon": "LayersIcon"
+      },
+      {
+        "title": "Đơn vị hành chính",
+        "key": "DONVIHANHCHINH",
+        "count": 15,
+        "childs": [
+          {
+            "title": "Vụ ngân sách Nhà nước",
+            "key": "VUNGANSACHNHANUOC",
+            "count": 5
+          },
+          {
+            "title": "Vụ Đầu tư",
+            "key": "VUDAOTU",
+            "count": 5
+          },
+          {
+            "title": "Vụ Tài chính quốc phòng, an ninh, đặc biệt (Vụ I)",
+            "key": "VUTAICHINHQUOCPHONG",
+            "count": 5
+          },
+          {
+            "title": "Vụ Tài chính hành chính sự nghiệp",
+            "key": "VUTAICHINHSUNGHIEP",
+            "count": 5
+          },
+          {
+            "title": "Vụ Chính sách thuế",
+            "key": "VUTAICHINHTHUE",
+            "count": 5
+          },
+          {
+            "title": "Vụ Tài chính các ngân hàng và tổ chức tài chính",
+            "key": "12",
+            "count": 5
+          },
+          {
+            "title": "Cục quản lý, giám sát kế toán, kiểm toán",
+            "key": "13",
+            "count": 5
+          },
+          {
+            "title": "Vụ Hợp tác quốc tế",
+            "key": "14",
+            "count": 5
+          },
+          {
+            "title": "Vụ Pháp chế",
+            "key": "15",
+            "count": 5
+          },
+          {
+            "title": "Cục Kế hoạch - Tài chính",
+            "key": "16",
+            "count": 5
+          },
+          {
+            "title": "Vụ Tổ chức cán bộ",
+            "key": "17",
+            "count": 5
+          },
+          {
+            "title": "Vụ Thi đua - Khen thưởng",
+            "key": "18",
+            "count": 5
+          },
+          {
+            "title": "Thanh tra",
+            "key": "19",
+            "count": 5
+          },
+          {
+            "title": "Văn Phòng",
+            "key": "20",
+            "count": 5
+          },
+          {
+            "title": "Cục Quản lý công sản",
+            "key": "21",
+            "count": 5
+          },
+          {
+            "title": "Cục Tài chính doanh nghiệp",
+            "key": "22",
+            "count": 5
+          },
+          {
+            "title": "Cục Quản lý nợ và Tài chính đối ngoại",
+            "key": "23",
+            "count": 5
+          },
+          {
+            "title": "Cục Quản lý, giám sát bảo hiểm",
+            "key": "24",
+            "count": 5
+          },
+          {
+            "title": "Cục Quản lý giá",
+            "key": "25",
+            "count": 5
+          },
+          {
+            "title": "Cục Tin học và Thống kê tài chính",
+            "key": "26",
+            "count": 5
+          },
+          {
+            "title": "Tổng cục Thuế",
+            "key": "27",
+            "count": 5
+          },
+          {
+            "title": "Tổng cục Hải quan",
+            "key": "28",
+            "count": 5
+          },
+          {
+            "title": "Tổng cục Dự trữ Nhà nước",
+            "key": "29",
+            "count": 5
+          },
+          {
+            "title": "Kho bạc Nhà nước",
+            "key": "30",
+            "count": 5
+          },
+          {
+            "title": "Ủy ban Chứng khoán Nhà nước",
+            "key": "31",
+            "count": 5
+          }
+        ],
+        "icon": "LayersIcon"
+      },
+      {
+        "title": "Đơn vị sự nghiệp",
+        "key": "32",
+        "count": 0,
+        "icon": "LayersIcon",
+        "childs": [
+          {
+            "title": "Viện Chiến lược và Chính sách tài chính",
+            "key": "33",
+            "count": 1
+          },
+          {
+            "title": "Thời báo Tài chính Việt Nam",
+            "key": "34",
+            "count": 1
+          },
+          {
+            "title": "Tạp chí Tài chính",
+            "key": "35",
+            "count": 1
+          },
+          {
+            "title": "Trường Bồi dưỡng cán bộ tài chính",
+            "key": "36",
+            "count": 1
+          },
+          {
+            "title": "Nhà xuất bản Tài chính",
+            "key": "37",
+            "count": 1
+          },
+          {
+            "title": "Học Viện Tài chính",
+            "key": "38",
+            "count": 1
+          },
+          {
+            "title": "Trường Đại học Tài chính - Marketing",
+            "key": "39",
+            "count": 1
+          },
+          {
+            "title": "Trường Đại học TC - KT",
+            "key": "40",
+            "count": 1
+          },
+          {
+            "title": "Trường Đại học TC-QTKDViện Chiến lược và Chính sách tài chính",
+            "key": "41",
+            "count": 1
+          },
+          {
+            "title": "Thời báo Tài chính Việt Nam",
+            "key": "42",
+            "count": 1
+          },
+          {
+            "title": "Tạp chí Tài chính",
+            "key": "43",
+            "count": 1
+          },
+          {
+            "title": "Trường Bồi dưỡng cán bộ tài chính",
+            "key": "44",
+            "count": 1
+          },
+          {
+            "title": "Nhà xuất bản Tài chính",
+            "key": "45",
+            "count": 1
+          },
+          {
+            "title": "Học Viện Tài chính",
+            "key": "46",
+            "count": 1
+          },
+          {
+            "title": "Trường Đại học Tài chính - Marketing",
+            "key": "47",
+            "count": 1
+          },
+          {
+            "title": "Trường Đại học TC - KT",
+            "key": "48",
+            "count": 1
+          },
+          {
+            "title": "Trường Đại học TC-QTKD",
+            "key": "49",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "icon": ""
+  },
+  {
+    "title": "Loại lịch",
+    "key": "50",
+    "count": 0,
+    "childs": [
+      {
+        "title": "Làm việc",
+        "key": "51",
+        "count": 9,
+        "childs": [],
+        "icon": "LayersIcon"
+      },
+      {
+        "title": "Công tác",
+        "key": "52",
+        "count": 2,
+        "childs": [],
+        "icon": "LayersIcon"
+      },
+      {
+        "title": "Tiếp dân",
+        "key": "53",
+        "count": 5,
+        "childs": [],
+        "icon": "LayersIcon"
+      }
+    ],
+    "icon": ""
+  }
+]
